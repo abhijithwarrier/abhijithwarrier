@@ -5,7 +5,7 @@ Welcome to my GitHub Profile. Here you can check my Python Projects which I uplo
 ## You can reach me on my:
 Instagram Page 🔗: www.instagram.com/python_scripts
 
-My Email ID 📧: pythonscripts94@gmail.com\n
+My Email ID 📧: pythonscripts94@gmail.com
 
 
 
