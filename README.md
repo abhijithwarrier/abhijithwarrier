@@ -9,7 +9,7 @@ Welcome to my GitHub Profile. I am a AWS Certified Solution Architect Associate.
 
 # My Skills
 ### Programming Languages
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
 
 ### Cloud Technologies
@@ -17,8 +17,8 @@ Welcome to my GitHub Profile. I am a AWS Certified Solution Architect Associate.
 
 # Connect With Me
 ### You can reach me on my:
-Instagram: <a href="https://instagram.com/python_scripts" target="blank">python_scripts</a><br>
-My Email ID: <a href="mailto:pythonscripts94@gmail.com" target="blank">pythonscripts94@gmail.com</a>
+<a href="https://www.freepnglogos.com/pics/logo-ig" title="Image from freepnglogos.com" align="center"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="30" height="30" alt="logo ig, instagram new logo vector download" /><a href="https://instagram.com/python_scripts" target="blank">  python_scripts</a>
+<img src="https://www.freepnglogos.com/uploads/email-logo-png-31.png" width="30" height="30" alt="email logo png" /><a href="mailto:pythonscripts94@gmail.com" target="blank">  pythonscripts94@gmail.com</a>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithwarrier" /></p>
 
