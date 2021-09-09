@@ -1,7 +1,7 @@
 # About Me
 ### I am ABHIJITH WARRIER, an Enthusiastic Cloud Developer and Python & NodeJS Programmer 👨🏻‍💻.
 
-Welcome to my GitHub Profile. I am a AWS Certified Solution Architect Associate. In my GitHub, you can check my Python Projects which I upload in my Instagram Page (www.instagram.com/python_scripts)
+Welcome to my GitHub Profile. I am a AWS Certified Solution Architect Associate and AWS Certified Cloud Practitioner. In my GitHub, you can check my Python Projects which I upload in my Instagram Page (www.instagram.com/python_scripts)
 
 # Certifications
 <a href="https://www.credly.com/badges/fc5c8c2b-d9eb-44c3-bd78-36d7b05e48e4/public_url" target="_blank"> <img src="https://www.dropbox.com/s/typidod5ujge2sd/SAA.png?raw=1" alt="aws" width="100" height="100"/></a>
