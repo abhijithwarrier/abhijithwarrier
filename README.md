@@ -3,9 +3,11 @@
 
 Welcome to my GitHub Profile. I am a AWS Certified Solution Architect Associate. In my GitHub, you can check my Python Projects which I upload in my Instagram Page (www.instagram.com/python_scripts)
 
+<!--
 # Certifications
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.dropbox.com/s/typidod5ujge2sd/SAA.png?raw=1" alt="aws" width="100" height="100"/></a>
-
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.dropbox.com/s/x8e6u8l7dqbchls/CP.png?raw=1" alt="aws" width="100" height="100"/></a>
+-->
 # My Skills
 ### Programming Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
