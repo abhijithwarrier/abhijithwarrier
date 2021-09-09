@@ -17,8 +17,6 @@ My Email ID: <a href="mailto:pythonscripts94@gmail.com" target="blank">pythonscr
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithwarrier" /></p>
 
-
-
 <!--
 **abhijithwarrier/abhijithwarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Instagram Page 🔗: www.instagram.com/python_scripts
