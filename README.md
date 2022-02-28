@@ -4,6 +4,7 @@
 Welcome to my GitHub Profile. I am a AWS Certified Solution Architect Associate and AWS Certified Cloud Practitioner. In my GitHub, you can check my Python Projects which I upload in my Instagram Page (www.instagram.com/python_scripts)
 
 # Certifications
+<a href="https://www.credly.com/badges/6b334cda-aae3-4b99-b93e-63ffe9d23c5a/public_url" target="_blank"> <img src="https://www.dropbox.com/s/hk6ug5xqwcd1zr4/DVA.png?raw=1" alt="aws" width="100" height="100"/></a>
 <a href="https://www.credly.com/badges/fc5c8c2b-d9eb-44c3-bd78-36d7b05e48e4/public_url" target="_blank"> <img src="https://www.dropbox.com/s/typidod5ujge2sd/SAA.png?raw=1" alt="aws" width="100" height="100"/></a>
 <a href="https://www.credly.com/badges/4b99e0c4-eaf9-47c0-a42d-28d2206567d3/public_url" target="_blank"> <img src="https://www.dropbox.com/s/x8e6u8l7dqbchls/CP.png?raw=1" alt="aws" width="100" height="100"/></a>
 
