@@ -43,7 +43,7 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Languages
+### 🚀 Core Stack
 <p>
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="60" height="60"/></a>
   <a href="https://www.djangoproject.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" width="60" height="60"/></a>  
