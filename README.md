@@ -149,7 +149,7 @@
 <table align="center">
     <tr>
         <td align="center" width="140">
-            <a href="https://www.linkedin.com/in/abhijith-warrier-228605184" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="48" height="48"/><span style="margin-left: 8px;">@abhijithwarrier</span></a>
+            <a href="https://www.linkedin.com/in/abhijith-warrier-228605184" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="48" height="48"/><span style="margin-left: 8px;">@abhijithwarrier</span></a>
         </td>
         <td align="center" width="140">
             <a href="https://instagram.com/python_scripts" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="48" height="48"/><span style="margin-left: 8px;">@python_scripts</span></a>
