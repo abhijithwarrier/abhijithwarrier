@@ -138,7 +138,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abhijithwarrier&show_icons=true&theme=tokyonight&hide_border=true" width="30%" />
-    <img src="https://streak-stats.demolab.com?user=abhijithwarrier&theme=tokyonight&hide_border=true" width="30%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithwarrier&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithwarrier&theme=github-compact&hide_border=true" />
 </p>
