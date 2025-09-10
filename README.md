@@ -25,23 +25,35 @@
 
 <h2 align="left"> 🏅 <span style="color:#FFD700">Certifications</span></h2>
 
-<p align="left">
-    <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url" target="_blank">
-        <img src="https://abhijithwarrier.in/certs/AIF.png?raw=1" alt="AWS SAA" width="100" height="100"/>
-    </a>
-    <a href="https://www.credly.com/badges/263959ad-cfcf-4c4a-af6e-b8ffa5476067/public_url" target="_blank">
-        <img src="https://abhijithwarrier.in/certs/SAP.png?raw=1" alt="AWS SAA" width="100" height="100"/>
-    </a>
-    <a href="https://www.credly.com/badges/fc5c8c2b-d9eb-44c3-bd78-36d7b05e48e4/public_url" target="_blank">
-        <img src="https://abhijithwarrier.in/certs/SAA.png?raw=1" alt="AWS SAA" width="100" height="100"/>
-    </a>
-    <a href="https://www.credly.com/badges/6b334cda-aae3-4b99-b93e-63ffe9d23c5a/public_url" target="_blank">
-        <img src="https://abhijithwarrier.in/certs/DVA.png?raw=1" alt="AWS DVA" width="100" height="100"/>
-    </a>
-    <a href="https://www.credly.com/badges/4b99e0c4-eaf9-47c0-a42d-28d2206567d3/public_url" target="_blank">
-        <img src="https://abhijithwarrier.in/certs/CP.png?raw=1" alt="AWS CP" width="100" height="100"/>
-    </a>
-</p>
+<table align="center">
+    <tr>
+        <td align="center" width="140">
+            <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/AIF.png?raw=1" alt="AWS SAA" width="100" height="100"/>
+            </a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.credly.com/badges/263959ad-cfcf-4c4a-af6e-b8ffa5476067/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/SAP.png?raw=1" alt="AWS SAA" width="100" height="100"/>
+            </a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.credly.com/badges/fc5c8c2b-d9eb-44c3-bd78-36d7b05e48e4/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/SAA.png?raw=1" alt="AWS SAA" width="100" height="100"/>
+            </a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.credly.com/badges/6b334cda-aae3-4b99-b93e-63ffe9d23c5a/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/DVA.png?raw=1" alt="AWS DVA" width="100" height="100"/>
+            </a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.credly.com/badges/4b99e0c4-eaf9-47c0-a42d-28d2206567d3/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/CP.png?raw=1" alt="AWS CP" width="100" height="100"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
 <hr>
 
