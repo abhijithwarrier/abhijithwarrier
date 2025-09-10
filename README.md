@@ -2,17 +2,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhijith+Warrier!" alt="Typing SVG" />
 </h1>
 
----
+<hr>
 
-## 👨🏻‍💻<span style="color:#FFD700">A Passionate Developer</span>
+<h2 align="left"> 👨🏻‍💻 <span style="color:#FFD700">A Passionate Developer</span></h2>
 
 - 🌍 Building <strong>secure, scalable & efficient systems</strong><br>
 - 🚀 Exploring AI, Cloud, and Automation to create real-world impact<br>
 - 🎨 Sharing Python Scripts, Tech Resources, and Digital Products
 
----
+<hr>
 
-## 🌐 <span style="color:#FFD700">About Me</span>
+<h2 align="left"> 🌐 <span style="color:#FFD700">About Me</span></h2>
 
 - 💡 Full Stack Developer with a strong **Cloud & AI focus**
 - 🔧 Hands-on with **Python, Node.js, Django, AWS, Shopify & more**  
@@ -21,9 +21,9 @@
 - 🛠️ Building **Internal Tools, Shopify Apps, and Automations Frameworks** for developers
 - 📸 Sharing **Python Mini Projects, AI Experiments, Quick Coding Tips & Tricks** weekly at [@python_scripts](https://instagram.com/python_scripts)
 
----
+<hr>
 
-## 🏅 <span style="color:#FFD700">Certifications</span>
+<h2 align="left"> 🏅 <span style="color:#FFD700">Certifications</span></h2>
 
 <p align="left">
     <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url" target="_blank">
@@ -43,11 +43,11 @@
     </a>
 </p>
 
----
+<hr>
 
-## 💻 <span style="color:#FFD700">Tech Stack</span>
+<h2 align="left"> 💻 <span style="color:#FFD700">Tech Stack</span></h2>
 
-### 🚀 Core Stack
+<h3 align="left"> 🚀 Core Stack </h3>
 
 <table align="center">
     <tr>
@@ -69,7 +69,7 @@
     </tr>
 </table>
 
-### ☁️ Cloud & Tools
+<h3 align="left"> ☁️ Cloud & Tools </h3>
 
 <table align="center">
     <tr>
@@ -88,7 +88,7 @@
     </tr>
 </table>
 
-### ⛁ Database / SQL
+<h3 align="left"> ⛁ Database / SQL </h3>
 
 <table align="center">
     <tr>
@@ -98,9 +98,9 @@
     </tr>
 </table>
 
----
+<hr>
 
-## 📦 <span style="color:#FFD700">My Ecosystem</span>
+<h2 align="left"> 📦 <span style="color:#FFD700">My Ecosystem</span></h2>
 
 <table align="center">
     <tr>
@@ -137,35 +137,35 @@
     </tr>
 </table>
 
----
+<hr>
 
-## 📘 <span style="color:#FFD700">Featured Projects</span>
+<h2 align="left"> 📘 <span style="color:#FFD700">Featured Projects</span></h2>
 
 - 🤖 [AI Projects](https://github.com/abhijithwarrier/AI-Projects) → Beginner-friendly AI Projects
 - ✨ [AI Sparks](https://github.com/abhijithwarrier/ai-sparks) → Quick & Powerful AI Scripts
 - 💡 [Python QuickBits](https://github.com/abhijithwarrier/python-quickbits) → Bite-sized Python Tricks  
 - 🧩 [DSA Patterns](https://github.com/abhijithwarrier/dsa-patterns) → Data Structures & Algorithm Patterns Collection
 
----
+<hr>
 
-## 📰 <span style="color:#FFD700">Latest from Tech Odyssey</span>
+<h2 align="left"> 📰 <span style="color:#FFD700">Latest from Tech Odyssey</span></h2>
 
 - 💰 [How Small Businesses Can Use AI Without Huge Budgets](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzA5MzY2ODYxMw/)
 - 🧩 [Introduction to Apache Kafka for Data Streaming](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzE1NzY4NzQ0Ng/)
 - ✨ [The AI Learning Roadmap (2025 Edition)](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzAwMDIwMjQ3Mg/)
 - 🔐 [Common API Security Mistakes](https://awdevrethought.abhijithwarrier.in/learning/MTc1NjgyNzQxNjcwNQ/)
 
----
+<hr>
 
-## 🛍️ <span style="color:#FFD700">Featured Digital Products</span>
+<h2 align="left"> 🛍️ <span style="color:#FFD700">Featured Digital Products</span></h2>
 
 - 📗 [7-Day Deep Learning Bootcamp (Launching Soon!) ](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp)
 - 📒 [7-Day AI Crash Course](https://treziropark.abhijithwarrier.in/l/ai-crash-course)  
 - 🖼️ [Geometry Series - Offset Dimensions Wallpaper Packs](http://treziropark.abhijithwarrier.in/l/geometry-series-offset-dimensions?layout=profile)  
 
----
+<hr>
 
-## 📊 <span style="color:#FFD700">GitHub Stats</span>
+<h2 align="left"> 📊 <span style="color:#FFD700">GitHub Stats</span></h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abhijithwarrier&show_icons=true&theme=tokyonight&hide_border=true" width="30%" />
@@ -173,9 +173,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithwarrier&theme=github-compact&hide_border=true" />
 </p>
 
----
+<hr>
 
-## 📩 <span style="color:#FFD700">Connect With Me</span>
+<h2 align="left"> 📩 <span style="color:#FFD700">Connect With Me</span></h2>
 
 <table align="center">
     <tr>
@@ -194,11 +194,11 @@
     </tr>
 </table>
 
----
+<hr>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003562,50:1B263B,100:D4AF37&height=120&section=footer)
 
----
+<hr>
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20Views&color=yellowgreen&style=plastic" alt="abhijithwarrier profile views"/>
