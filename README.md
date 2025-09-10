@@ -48,24 +48,55 @@
 ## 💻 <span style="color:#FFD700">Tech Stack</span>
 
 ### 🚀 Core Stack
-<p>
-    <a href="https://www.python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></a>
-    <a href="https://www.djangoproject.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" width="60" height="60"/></a>  
-    <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" width="60" height="60"/></a>
-    <a href="https://graphql.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain.svg" width="60" height="60"/></a>
-    <a href="https://react.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" width="60" height="60"/></a>
-</p>
+
+<table align="center">
+    <tr>
+        <td align="center" width="140">
+            <a href="https://www.python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.djangoproject.com" target="_blank"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+        <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://graphql.org" target="_blank"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://react.dev" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/></a>
+        </td>
+    </tr>
+</table>
 
 ### ☁️ Cloud & Tools
-<p>
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/></a>
-    <a href="https://www.shopify.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="60" height="60"/></a>
-</p>
+
+<table align="center">
+    <tr>
+        <td align="center" width="140">
+            <a href="https://aws.amazon.com" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://git-scm.com/" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.docker.com" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60"/></a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://www.shopify.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="60" height="60"/></a>
+        </td>
+    </tr>
+</table>
 
 ### ⛁ Database / SQL
-<p>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/></a>
-</p>
+
+<table align="center">
+    <tr>
+        <td align="center" width="140">
+            <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/></a>
+        </td>
+    </tr>
+</table>
 
 ---
 
