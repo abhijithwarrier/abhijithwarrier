@@ -49,7 +49,7 @@
 
 ### 🚀 Core Stack
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://www.python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></a>
@@ -71,7 +71,7 @@
 
 ### ☁️ Cloud & Tools
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://aws.amazon.com" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60"/></a>
@@ -90,7 +90,7 @@
 
 ### ⛁ Database / SQL
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/></a>
@@ -102,7 +102,7 @@
 
 ## 📦 <span style="color:#FFD700">My Ecosystem</span>
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://abhijithwarrier.in" target="_blank">
@@ -177,7 +177,7 @@
 
 ## 📩 <span style="color:#FFD700">Connect With Me</span>
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://www.linkedin.com/in/abhijith-warrier-228605184" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="48" height="48"/><span style="margin-left: 8px;">@abhijithwarrier</span></a>
