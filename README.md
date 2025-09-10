@@ -49,7 +49,7 @@
 
 <h3 align="left"> 🚀 Core Stack </h3>
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://www.python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/></a>
@@ -68,11 +68,10 @@
         </td>
     </tr>
 </table>
-<br><br>
 
 <h3 align="left"> ☁️ Cloud & Tools </h3>
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://aws.amazon.com" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60"/></a>
@@ -88,18 +87,16 @@
         </td>
     </tr>
 </table>
-<br>
 
 <h3 align="left"> ⛁ Database / SQL </h3>
 
-<table align="left">
+<table align="center">
     <tr>
         <td align="center" width="140">
             <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60"/></a>
         </td>
     </tr>
 </table>
-<br>
 
 <hr>
 
