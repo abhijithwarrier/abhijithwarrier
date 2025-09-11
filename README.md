@@ -1,5 +1,5 @@
 <h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D4AF37&width=2000&height=100&lines=%F0%9F%92%BB+A+Passionate+Developer+working+as+a+Technical+Lead;%E2%98%81%EF%B8%8F+AWS+Certified+Professional+building+secure%2C+scalable+%26+efficient+systems;%F0%9F%9A%80+Exploring+AI%2C+Cloud%2C+and+Automation+to+create+real-world+impact;%F0%9F%8E%A8+Sharing+Python+Scripts%2C+Tech+Resources%2C+and+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&color=D4AF37&width=2000&height=100&lines=%F0%9F%92%BB+A+Passionate+Developer+working+as+a+Technical+Lead;%E2%98%81%EF%B8%8F+AWS+Certified+Professional+building+secure%2C+scalable+%26+efficient+systems;%F0%9F%9A%80+Exploring+AI%2C+Cloud%2C+and+Automation+to+create+real-world+impact;%F0%9F%8E%A8+Sharing+Python+Scripts%2C+Tech+Resources%2C+and+Digital+Products" alt="Typing SVG" />
 </h1>
 
 <hr>
