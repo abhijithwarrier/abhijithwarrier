@@ -1,18 +1,12 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhijith+Warrier!" alt="Typing SVG" />
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D4AF37&width=2000&height=100&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Passionate+Developer+working+as+a+Technical+Lead;%E2%98%81%EF%B8%8F+AWS+Certified+Professional+building+secure%2C+scalable+%26+efficient+systems;%F0%9F%9A%80+Exploring+AI%2C+Cloud%2C+and+Automation+to+create+real-world+impact;%F0%9F%8E%A8+Sharing+Python+Scripts%2C+Tech+Resources%2C+and+Digital+Products" alt="Typing SVG" />
 </h1>
 
 <hr>
 
-<h2 align="left"> 👨🏻‍💻 <span style="color:#FFD700">A Passionate Developer</span></h2>
-
-- 🌍 Building <strong>secure, scalable & efficient systems</strong><br>
-- 🚀 Exploring AI, Cloud, and Automation to create real-world impact<br>
-- 🎨 Sharing Python Scripts, Tech Resources, and Digital Products
-
-<hr>
-
 <h2 align="left"> 🌐 <span style="color:#FFD700">About Me</span></h2>
+
+<img align="right" alt="Coding" width="200" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA0cTJtamd5YmtoeDg0MGw0dmp6eGJpdXFvaWh0MWtxb3kyaWs2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 - 💡 Full Stack Developer with a strong **Cloud & AI focus**
 - 🔧 Hands-on with **Python, Node.js, Django, AWS, Shopify & more**  
@@ -20,6 +14,8 @@
 - 📚 Creator of **AI Crash Course, Deep Learning Bootcamp, and Tech Resources**
 - 🛠️ Building **Internal Tools, Shopify Apps, and Automations Frameworks** for developers
 - 📸 Sharing **Python Mini Projects, AI Experiments, Quick Coding Tips & Tricks** weekly at [@python_scripts](https://instagram.com/python_scripts)
+
+<br clear="both"/>
 
 <hr>
 
