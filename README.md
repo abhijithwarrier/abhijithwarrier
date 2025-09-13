@@ -158,10 +158,9 @@
 
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest from Tech Odyssey</span></h2>
 
-- 💰 [How Small Businesses Can Use AI Without Huge Budgets](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzA5MzY2ODYxMw/)
-- 🧩 [Introduction to Apache Kafka for Data Streaming](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzE1NzY4NzQ0Ng/)
-- ✨ [The AI Learning Roadmap (2025 Edition)](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzAwMDIwMjQ3Mg/)
-- 🔐 [Common API Security Mistakes](https://awdevrethought.abhijithwarrier.in/learning/MTc1NjgyNzQxNjcwNQ/)
+<!-- BLOG-POST-LIST:START -->
+Loading latest posts...
+<!-- BLOG-POST-LIST:END -->
 
 <hr>
 
