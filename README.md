@@ -208,9 +208,9 @@
 
 <hr>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://treziropark.abhijithwarrier.in/coffee" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="Buy Me A Coffee" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20Views&color=yellowgreen&style=plastic" alt="abhijithwarrier profile views"/>
-</div>
+<p>
+    <a align="left" href="https://treziropark.abhijithwarrier.in/coffee" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="Buy Me A Coffee" />
+    </a>
+    <img align="right" src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20Views&color=yellowgreen&style=plastic" alt="abhijithwarrier profile views"/>
+</p>
