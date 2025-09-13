@@ -1,7 +1,7 @@
 name: Latest blog posts
 on:
   schedule:
-    - cron: "30 02 * * *"   # daily at 00:00 UTC
+    - cron: "*/30 * * * *"   # daily at 00:00 UTC
   workflow_dispatch:
 permissions:
   contents: write
