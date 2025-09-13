@@ -204,10 +204,13 @@
 
 <hr>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003562,50:1B263B,100:D4AF37&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003562,50:1B263B,100:D4AF37&height=120&section=footer&text=✨+Code+Smarter+|+Build+Bigger+|+Share+Freely+✨&fontColor=ffffff&fontSize=24)
 
 <hr>
 
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20Views&color=yellowgreen&style=plastic" alt="abhijithwarrier profile views"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://treziropark.abhijithwarrier.in/coffee" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="Buy Me A Coffee" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abhijithwarrier&label=Profile%20Views&color=yellowgreen&style=plastic" alt="abhijithwarrier profile views"/>
+</div>
