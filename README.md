@@ -159,7 +159,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest from Tech Odyssey</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
-Loading latest posts...
+- [AW Dev Rethought Radar | Sept 8–14, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzc0ODA3NzYyNA/)
+- [Critical Updates: GitHub Supply-Chain Attack – Sept 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzcwMzYwMzI3Nw/)
+- [Developer Productivity: 10 Productivity Tools Every Developer Should Know](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzQzMDAyNjU5OA/)
+- [Data Insights: SQL vs NoSQL – Choosing the Right Database](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzQyOTU4MTE2NA/)
+- [Critical Updates: Major npm Supply-Chain Attack on September 8, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzUwMjI1ODU1MA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
