@@ -192,6 +192,13 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abhijithwarrier&show_icons=true&theme=tokyonight&hide_border=true" width="30%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithwarrier&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhijithwarrier&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithwarrier&theme=github-compact&bg_color=003562&line=D4AF37&color=D4AF37&hide_border=true" />
 </p>
 
