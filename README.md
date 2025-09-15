@@ -19,7 +19,7 @@
       </ul>
     </td>
     <!-- RIGHT: Image -->
-    <td width="35%" align="right" valign="top">
+    <td width="35%" align="right" valign="center">
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg0bmkxejJpNDVocjZ1YWRhYTY0czcwejA3ZXVrb3F0eGJ4aWFiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" 
         alt="Coding animation" 
