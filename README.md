@@ -167,7 +167,7 @@
 
 <hr>
 
-<h2 align="left"> 📰 <span style="color:#FFD700">Latest Posts from my Blog</span></h2>
+<h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Ethics in AI: Bias, Privacy, and the Future of Work](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzg2NTc0ODk2OA/)
@@ -179,7 +179,7 @@
 
 <hr>
 
-<h2 align="left"> 🛍️ <span style="color:#FFD700">My Featured Tech Resources & Digital Products</span></h2>
+<h2 align="left"> 🛍️ <span style="color:#FFD700">Tech Resources & Digital Products · Built & Curated by Me</span></h2>
 
 - 📗 [7-Day Deep Learning Bootcamp (Launching Soon!) ](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp)
 - 📒 [7-Day AI Crash Course](https://treziropark.abhijithwarrier.in/l/ai-crash-course)  
