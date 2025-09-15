@@ -4,18 +4,29 @@
 
 <hr>
 
-<h2 align="left"> 🌐 <span style="color:#FFD700">About Me</span></h2>
-
-<img align="right" alt="Coding" width="200" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA0cTJtamd5YmtoeDg0MGw0dmp6eGJpdXFvaWh0MWtxb3kyaWs2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
-
-- 💡 Full Stack Developer with a strong **Cloud & AI focus**
-- 🔧 Hands-on with **Python, Node.js, Django, AWS, Shopify & more**  
-- ☁️ **AWS Certified** across multiple domains, including Architecture & Cloud Fundamentals
-- 📚 Creator of **AI Crash Course, Deep Learning Bootcamp, and Tech Resources**
-- 🛠️ Building **Internal Tools, Shopify Apps, and Automations Frameworks** for developers
-- 📸 Sharing **Python Mini Projects, AI Experiments, Quick Coding Tips & Tricks** weekly at [@python_scripts](https://instagram.com/python_scripts)
-
-<br clear="both"/>
+<table width="100%">
+  <tr>
+    <!-- LEFT: Content -->
+    <td width="65%" valign="top">
+      <h2 align="left"> 🌐 <span style="color:#FFD700">About Me</span></h2>
+      <ul>
+        <li>💡 Full Stack Developer with a strong <strong>Cloud &amp; AI</strong> focus</li>
+        <li>🔧 Hands-on with <strong>Python, Node.js, Django, AWS, Shopify</strong> &amp; more</li>
+        <li>☁️ <strong>AWS Certified</strong> across multiple domains, including Architecture &amp; Cloud Fundamentals</li>
+        <li>📚 Creator of <strong>AI Crash Course, Deep Learning Bootcamp, and Tech Resources</strong></li>
+        <li>🛠️ Building <strong>Internal Tools, Shopify Apps, and Automation Frameworks</strong> for developers</li>
+        <li>📸 Sharing weekly at <a href="https://instagram.com/python_scripts" target="_blank"><strong>@python_scripts</strong></a> — projects, experiments, and bite-size insights</li>
+      </ul>
+    </td>
+    <!-- RIGHT: Image -->
+    <td width="35%" align="right" valign="top">
+      <img 
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA0cTJtamd5YmtoeDg0MGw0dmp6eGJpdXFvaWh0MWtxb3kyaWs2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" 
+        alt="Coding animation" 
+        style="max-width: 100%; height: auto; border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
