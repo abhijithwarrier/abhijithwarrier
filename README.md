@@ -170,11 +170,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Insights: Kubernetes in Plain English](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzk0MDgyNzUzMA/)
 - [Ethics in AI: Bias, Privacy, and the Future of Work](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzg2NTc0ODk2OA/)
 - [AW Dev Rethought Radar | Sept 8–14, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzc0ODA3NzYyNA/)
 - [Critical Updates: GitHub Supply-Chain Attack – Sept 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzcwMzYwMzI3Nw/)
 - [Developer Productivity: 10 Productivity Tools Every Developer Should Know](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzQzMDAyNjU5OA/)
-- [Data Insights: SQL vs NoSQL – Choosing the Right Database](https://awdevrethought.abhijithwarrier.in/learning/MTc1NzQyOTU4MTE2NA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
