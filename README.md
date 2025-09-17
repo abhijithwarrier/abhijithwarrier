@@ -163,7 +163,7 @@
 - 🤖 [AI Projects](https://github.com/abhijithwarrier/AI-Projects) → Beginner-friendly AI Projects
 - ✨ [AI Sparks](https://github.com/abhijithwarrier/ai-sparks) → Quick & Powerful AI Scripts
 - 💡 [Python QuickBits](https://github.com/abhijithwarrier/python-quickbits) → Bite-sized Python Tricks  
-- 🧩 [DSA Patterns](https://github.com/abhijithwarrier/dsa-patterns) → Data Structures & Algorithm Patterns Collection
+- 🧩 [DSA Patterns](https://github.com/abhijithwarrier/Python-DSA-Patterns) → Data Structures & Algorithm Patterns Collection
 
 <hr>
 
