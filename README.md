@@ -19,12 +19,21 @@
       </ul>
     </td>
     <!-- RIGHT: Image -->
-    <td width="35%" align="right" valign="center">
-      <img 
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg0bmkxejJpNDVocjZ1YWRhYTY0czcwejA3ZXVrb3F0eGJ4aWFiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" 
-        alt="Coding animation" 
-        style="max-width: 100%; height: auto; border-radius: 12px;" />
+    <td width="35%" align="center" valign="center">
+      <img src=".assets/logo-preview.gif" alt="AW Logo Animation" style="max-width:100%; height:auto; border-radius:12px;" />
     </td>
+
+[//]: # (<td width="35%" align="right" valign="center">)
+
+[//]: # (      <img )
+
+[//]: # (        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg0bmkxejJpNDVocjZ1YWRhYTY0czcwejA3ZXVrb3F0eGJ4aWFiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" )
+
+[//]: # (        alt="Coding animation" )
+
+[//]: # (        style="max-width: 100%; height: auto; border-radius: 12px;" />)
+
+[//]: # (    </td>)
   </tr>
 </table>
 
