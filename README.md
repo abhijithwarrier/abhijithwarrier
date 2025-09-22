@@ -179,11 +179,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Insights: How Quantum Computing Could Change Cybersecurity?](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODE5ODU0NjE3Nw/)
 - [AW Dev Rethought Radar | Sept 15-21, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODI5MzkxNTE1Mw/)
 - [Critical Updates: Reddit Outage – Sept 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODIxMjE5NjM1OA/)
 - [Architecture Insights: API Versioning Strategies That Work](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODE5NzI2MjI4NQ/)
 - [AWS: Disaster Recovery Strategies You Shouldn’t Ignore](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzk0NTk2MzcxMQ/)
-- [Developer Insights: Kubernetes in Plain English](https://awdevrethought.abhijithwarrier.in/learning/MTc1Nzk0MDgyNzUzMA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
