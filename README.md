@@ -179,11 +179,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Insights: The Rise of Developer Portfolios &amp; Personal Branding](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODgxMzIwOTgyMg/)
+- [Security Insights: Multi-Factor Authentication — Choosing the Right Approach](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODc3NjI4NTkwNw/)
+- [Data Insights: The Basics of Data Warehousing](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODc3ODA2ODgxNg/)
 - [AWS: Cost Optimization Beyond Free Tier](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODY0MTc2NDI4Mg/)
 - [AI Insights: 5 AI Projects You Can Build as a Beginner](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODUyNjkyNDg5Mw/)
-- [Security Insights: How Quantum Computing Could Change Cybersecurity?](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODE5ODU0NjE3Nw/)
-- [AW Dev Rethought Radar | Sept 15-21, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODI5MzkxNTE1Mw/)
-- [Critical Updates: Reddit Outage – Sept 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODIxMjE5NjM1OA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
