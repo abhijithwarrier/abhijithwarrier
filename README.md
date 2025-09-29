@@ -179,11 +179,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AW Dev Rethought Radar |  Sept 22–28, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MzU2OTMyOQ/)
+- [Developer Insights: PostgreSQL Features You Probably Didn’t Know](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MDAzNzAzNQ/)
 - [Career Insights: The Rise of Developer Portfolios &amp; Personal Branding](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODgxMzIwOTgyMg/)
 - [Data Insights: The Basics of Data Warehousing](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODc3ODA2ODgxNg/)
 - [Security Insights: Multi-Factor Authentication — Choosing the Right Approach](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODc3NjI4NTkwNw/)
-- [AWS: Cost Optimization Beyond Free Tier](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODY0MTc2NDI4Mg/)
-- [AI Insights: 5 AI Projects You Can Build as a Beginner](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODUyNjkyNDg5Mw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
