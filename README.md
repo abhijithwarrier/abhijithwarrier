@@ -179,11 +179,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Trends: The State of Web3 in 2025 – Hype vs Reality](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MDQ1NzEwMQ/)
 - [AW Dev Rethought Radar |  Sept 22–28, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MzU2OTMyOQ/)
 - [Developer Insights: PostgreSQL Features You Probably Didn’t Know](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MDAzNzAzNQ/)
 - [Career Insights: The Rise of Developer Portfolios &amp; Personal Branding](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODgxMzIwOTgyMg/)
 - [Data Insights: The Basics of Data Warehousing](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODc3ODA2ODgxNg/)
-- [Security Insights: Multi-Factor Authentication — Choosing the Right Approach](https://awdevrethought.abhijithwarrier.in/learning/MTc1ODc3NjI4NTkwNw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
