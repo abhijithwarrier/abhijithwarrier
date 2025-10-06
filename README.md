@@ -141,7 +141,13 @@
         <td align="center" width="140">
             <a href="https://awdevrethought.abhijithwarrier.in" target="_blank">
                 <img src="https://awdevrethought.abhijithwarrier.in/static/images/logo/aw-dev-rethought-logo.png" width="48" height="48" alt="Tech Odyssey"/><br/>
-                <sub><b>Tech Odyssey</b></sub>
+                <sub><b>AW Dev Rethought: Tech Odyssey</b></sub>
+            </a>
+        </td>
+        <td align="center" width="140">
+            <a href="https://awdevtools.abhijithwarrier.in" target="_blank">
+                <img src="https://awdevtools.abhijithwarrier.in/public/logo/aw-dev-tools-logo.png" width="48" height="48" alt="Tech Odyssey"/><br/>
+                <sub><b>AW Dev Tools: Developer's Toolbox</b></sub>
             </a>
         </td>
         <td align="center" width="140">
@@ -190,7 +196,7 @@
 
 <h2 align="left"> 🛍️ <span style="color:#FFD700">Tech Resources & Digital Products · Built & Curated by Me</span></h2>
 
-- 📗 [7-Day Deep Learning Bootcamp (Launching Soon!) ](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp)
+- 📗 [7-Day Deep Learning Bootcamp](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp)
 - 📒 [7-Day AI Crash Course](https://treziropark.abhijithwarrier.in/l/ai-crash-course)  
 - 🖼️ [Geometry Series - Offset Dimensions Wallpaper Packs](http://treziropark.abhijithwarrier.in/l/geometry-series-offset-dimensions?layout=profile)  
 
