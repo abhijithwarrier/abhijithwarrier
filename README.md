@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Insights: Designing for Failure — Building Resilient Architectures](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxOTMwODU4NA/)
 - [Tech Trends: 🌱 Green Computing: How Tech is Going Sustainable](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxODM0ODYyMw/)
 - [AWS: Securing AWS Environments – A Practical Checklist](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxODUxMzI5Ng/)
 - [AW Dev Rethought Radar | Sept 28 – Oct 4, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTUwNjc4MzczOA/)
 - [AWS: Data Lake vs Data Warehouse – When to Choose What?](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MTQ1MDczMg/)
-- [AI Insights: Mistakes Beginners Make in Machine Learning &lpar;and How to Avoid Them&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTA3MDgxMTMyMw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
