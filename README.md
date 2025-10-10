@@ -44,13 +44,13 @@
 <table align="center">
     <tr>
         <td align="center" width="140">
-            <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url" target="_blank">
-                <img src="https://abhijithwarrier.in/certs/AIF.png?raw=1" alt="AWS SAA" width="100" height="100"/>
+            <a href="https://www.credly.com/badges/263959ad-cfcf-4c4a-af6e-b8ffa5476067/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/SAP.png?raw=1" alt="AWS SAP" width="100" height="100"/>
             </a>
         </td>
         <td align="center" width="140">
-            <a href="https://www.credly.com/badges/263959ad-cfcf-4c4a-af6e-b8ffa5476067/public_url" target="_blank">
-                <img src="https://abhijithwarrier.in/certs/SAP.png?raw=1" alt="AWS SAA" width="100" height="100"/>
+            <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url" target="_blank">
+                <img src="https://abhijithwarrier.in/certs/AIF.png?raw=1" alt="AWS AIF" width="100" height="100"/>
             </a>
         </td>
         <td align="center" width="140">
@@ -146,7 +146,7 @@
         </td>
         <td align="center" width="140">
             <a href="https://awdevtools.abhijithwarrier.in" target="_blank">
-                <img src="https://awdevtools.abhijithwarrier.in/public/logo/aw-dev-tools-logo.png" width="48" height="48" alt="Tech Odyssey"/><br/>
+                <img src="https://awdevtools.abhijithwarrier.in/logo/aw-dev-tools-logo.png" width="48" height="48" alt="Tech Odyssey"/><br/>
                 <sub><b>AW Dev Tools: Developer's Toolbox</b></sub>
             </a>
         </td>
