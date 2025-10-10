@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Productivity: GitHub Actions — Automating Your Development Workflow](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQyMjkxMDcyMw/)
 - [Root Cause Analysis &lpar;RCA&rpar; - A Practical Guide for Developers &amp; Teams](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTkyNzgyNDMyNg/)
+- [AI Insights: Why Python Dominates the AI Space](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxOTc1NzM4MQ/)
 - [Data Insights: Data Governance – Why It Matters for Every Organization](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxODYxODY5Ng/)
 - [Architecture Insights: Designing for Failure — Building Resilient Architectures](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxOTMwODU4NA/)
-- [Tech Trends: 🌱 Green Computing: How Tech is Going Sustainable](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxODM0ODYyMw/)
-- [AWS: Securing AWS Environments – A Practical Checklist](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxODUxMzI5Ng/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
