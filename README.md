@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Insights: Redis Explained – More Than Just a Cache](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDEwNjUyMTc2NA/)
 - [AW Dev Rethought Radar | Oct 6 — 11, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDExNjc4OTcwNA/)
 - [AWS: Security Best Practices for Startups](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQyMzg5OTAwOQ/)
 - [Developer Productivity: GitHub Actions — Automating Your Development Workflow](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQyMjkxMDcyMw/)
 - [AI Insights: Why Python Dominates the AI Space](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQxOTc1NzM4MQ/)
-- [Root Cause Analysis &lpar;RCA&rpar; - A Practical Guide for Developers &amp; Teams](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTkyNzgyNDMyNg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
