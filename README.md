@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Insights: Cybersecurity for Remote Teams – Must-Have Practices](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTM1MDYyMg/)
+- [AI Insights: How AI Is Reshaping E-Commerce &lpar;From Recommendations to Chatbots&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDEwODgwMzc4NA/)
+- [Tech Trends: Apple Launch 2025 — The M5 Era Begins](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDU0NTI1NTIzMA/)
 - [Tech Trends: Augmented Reality in the Workplace – Practical Uses](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDEwODIxMjI1Nw/)
 - [Developer Productivity: Automating Your Daily Coding Tasks](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDEwMzEwNjAzMQ/)
-- [Developer Insights: Redis Explained – More Than Just a Cache](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDEwNjUyMTc2NA/)
-- [AW Dev Rethought Radar | Oct 6 — 11, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDExNjc4OTcwNA/)
-- [AWS: Security Best Practices for Startups](https://awdevrethought.abhijithwarrier.in/learning/MTc1OTQyMzg5OTAwOQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
