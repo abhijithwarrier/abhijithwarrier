@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Insights: How Architecture Decisions Impact Team Productivity](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTA3ODgxNQ/)
 - [AW Dev Rethought Radar |  Oct 12 – 17, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDcxNjc5NjA5OQ/)
 - [Data Insights: Introduction to dbt &lpar;Data Build Tool&rpar; for Analytics](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTUzODE5Nw/)
 - [AWS: Common Pitfalls in Multi-Region Deployments](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxODkzMzk5NA/)
 - [Security Insights: Cybersecurity for Remote Teams – Must-Have Practices](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTM1MDYyMg/)
-- [AI Insights: How AI Is Reshaping E-Commerce &lpar;From Recommendations to Chatbots&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDEwODgwMzc4NA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
