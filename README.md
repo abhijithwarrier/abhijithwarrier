@@ -186,10 +186,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Architecture Insights: How Architecture Decisions Impact Team Productivity](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTA3ODgxNQ/)
+- [Critical Updates: AWS Outage – October 20, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDk4MjEwODc1MQ/)
 - [AW Dev Rethought Radar |  Oct 12 – 17, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDcxNjc5NjA5OQ/)
 - [Data Insights: Introduction to dbt &lpar;Data Build Tool&rpar; for Analytics](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTUzODE5Nw/)
 - [AWS: Common Pitfalls in Multi-Region Deployments](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxODkzMzk5NA/)
-- [Security Insights: Cybersecurity for Remote Teams – Must-Have Practices](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTM1MDYyMg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
