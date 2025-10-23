@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Insights: The Future of AI - Generative AI &amp; LLMs in Simple Words](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTE3NzQ2Mg/)
 - [Developer Insights: API Testing with Postman: A Beginner’s Guide](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDg3NzI5NTUwMg/)
 - [Architecture Insights: How Architecture Decisions Impact Team Productivity](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTA3ODgxNQ/)
 - [Critical Updates: AWS Outage – October 20, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDk4MjEwODc1MQ/)
 - [AW Dev Rethought Radar |  Oct 12 – 17, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDcxNjc5NjA5OQ/)
-- [Data Insights: Introduction to dbt &lpar;Data Build Tool&rpar; for Analytics](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDUxOTUzODE5Nw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
