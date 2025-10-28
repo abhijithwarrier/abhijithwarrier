@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Insights: Terraform Basics - Automating Cloud Infrastructure](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMzQ5MzQwNA/)
 - [Community Insights: Building an Open-Source Presence as a Developer](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMTkyNzA3Mg/)
 - [Data Insights: Data Lake vs Data Warehouse – Key Differences](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDg3Nzc2MzEzNQ/)
 - [AW Dev Rethought Radar | Oct 19 – 25, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMxOTM5NTgyNA/)
 - [Security Insights: Detecting and Preventing DDoS Attacks](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDg3NzQ4MjM2NA/)
-- [Why AI Is a Must-Have Skill for Creators and Entrepreneurs](https://awdevrethought.abhijithwarrier.in/learning/MTc2MDg3NzE2NzQzMg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
