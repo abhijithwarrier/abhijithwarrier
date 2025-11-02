@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AW Dev Rethought Radar | Oct 26 – Nov 1, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzI4NTUxNQ/)
+- [Architecture Insights: CQRS and Event Sourcing - Are They Worth the Complexity?](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzE1Njg0OA/)
 - [AI Insights: How AI Is Transforming Education &lpar;Personalized Learning at Scale&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMDkxMjkxNw/)
 - [Tech Insights: Digital Twins – The Future of Simulation and Design](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyNDkwNDk3OQ/)
 - [AWS: Managing Serverless at Scale](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMjIzMDUwOA/)
-- [Developer Insights: Terraform Basics - Automating Cloud Infrastructure](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMzQ5MzQwNA/)
-- [Community Insights: Building an Open-Source Presence as a Developer](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMTkyNzA3Mg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
