@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [AW Dev Rethought Radar | Oct 26 – Nov 1, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzI4NTUxNQ/)
+- [AWS: Understanding VPC, Subnets, and Networking Basics](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjA4NTIxMjg0OA/)
+- [Security Insights: Data Breaches — How to Respond in the First 24 Hours](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjAxMDI1MDc4NA/)
 - [Architecture Insights: CQRS and Event Sourcing - Are They Worth the Complexity?](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzE1Njg0OA/)
+- [AW Dev Rethought Radar | Oct 26 – Nov 1, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzI4NTUxNQ/)
 - [AI Insights: How AI Is Transforming Education &lpar;Personalized Learning at Scale&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMDkxMjkxNw/)
-- [Tech Insights: Digital Twins – The Future of Simulation and Design](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyNDkwNDk3OQ/)
-- [AWS: Managing Serverless at Scale](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTMyMjIzMDUwOA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
