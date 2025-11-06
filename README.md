@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Insights: Scaling Teams with Micro-services — Lessons Learned](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDUxNDE2Mg/)
 - [Data Insights: Common Data Modeling Mistakes to Avoid](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjE2NTU2MjI4NA/)
 - [AWS: Understanding VPC, Subnets, and Networking Basics](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjA4NTIxMjg0OA/)
 - [Security Insights: Data Breaches — How to Respond in the First 24 Hours](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjAxMDI1MDc4NA/)
 - [Architecture Insights: CQRS and Event Sourcing - Are They Worth the Complexity?](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzE1Njg0OA/)
-- [AW Dev Rethought Radar | Oct 26 – Nov 1, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MTkzMzI4NTUxNQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
