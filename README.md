@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AW Dev Rethought Radar | Nov 2 – 8,  2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNDA5NjcxNA/)
+- [AI Insights: AI in Cybersecurity — Detecting Threats Before They Happen](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDYxNjA4MA/)
 - [Tech Insights: 5G and Beyond — How Ultra-Low Latency Will Change Apps](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDg3ODI1OQ/)
 - [Developer Productivity: VS Code Shortcuts That Will Save You Hours](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDc0ODY1Mw/)
 - [Architecture Insights: Scaling Teams with Micro-services — Lessons Learned](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDUxNDE2Mg/)
-- [Data Insights: Common Data Modeling Mistakes to Avoid](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjE2NTU2MjI4NA/)
-- [AWS: Understanding VPC, Subnets, and Networking Basics](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjA4NTIxMjg0OA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
