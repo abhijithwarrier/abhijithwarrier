@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Insights: How to Build a Real-Time Dashboard with Python and Plotly](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNjE2MjM0MQ/)
+- [Developer Productivity: Using Git Hooks for Automation](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNTk0NjIzNQ/)
 - [Security Insights: How to Protect Your Code from Supply Chain Attacks](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNDg5ODc3OA/)
 - [AWS: Step Functions vs SWF – Choosing the Right Workflow Service](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNDQ5MDUzNg/)
 - [AW Dev Rethought Radar | Nov 2 – 8,  2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNDA5NjcxNA/)
-- [AI Insights: AI in Cybersecurity — Detecting Threats Before They Happen](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDYxNjA4MA/)
-- [Tech Insights: 5G and Beyond — How Ultra-Low Latency Will Change Apps](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjI3MDg3ODI1OQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
