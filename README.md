@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Insights: The Role of AI in Climate Change Solutions](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNjgwMDcyMA/)
+- [AW Dev Rethought Radar | Nov 9 – 15,  2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzE5NzIwNDkwMA/)
 - [Tech Insights: Where the Tech Job Market is Headed in 2026](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNjU2NDI5OQ/)
 - [Data Insights: How to Build a Real-Time Dashboard with Python and Plotly](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNjE2MjM0MQ/)
 - [Developer Productivity: Using Git Hooks for Automation](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNTk0NjIzNQ/)
-- [Security Insights: How to Protect Your Code from Supply Chain Attacks](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNDg5ODc3OA/)
-- [AWS: Step Functions vs SWF – Choosing the Right Workflow Service](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNDQ5MDUzNg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
