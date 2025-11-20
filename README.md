@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Insights: Architecture Patterns for Real-Time Data Processing](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM3OTg3MTkxMw/)
+- [Critical Updates: Cloudflare Outage – November 18, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzUzODMyODE5OA/)
 - [Tech Insights: Building Developer Portals – Unifying Docs, APIs &amp; Tools](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzIwNDUwMDM1MA/)
 - [AWS: Multi-Account Strategies for Enterprises](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzIwNDA3NDM0MQ/)
 - [AI Insights: The Role of AI in Climate Change Solutions](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNjgwMDcyMA/)
-- [AW Dev Rethought Radar | Nov 9 – 15,  2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzE5NzIwNDkwMA/)
-- [Tech Insights: Where the Tech Job Market is Headed in 2026](https://awdevrethought.abhijithwarrier.in/learning/MTc2MjUzNjU2NDI5OQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
