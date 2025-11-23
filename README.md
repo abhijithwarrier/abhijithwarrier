@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Insights: AI-Powered Search Engines: How They Work](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM4MjE1ODM5Ng/)
+- [AW Dev Rethought Radar | Nov 16 – 22, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2Mzc1NDE0NjExOQ/)
 - [Security Insights: OWASP Top 10 – What Developers Should Actually Care About](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM4MTcwMDEyNg/)
 - [AI Insights: Responsible AI – Ethics and Governance in Machine Learning Deployments](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM4MTE4MTEyMw/)
 - [Architecture Insights: Architecture Patterns for Real-Time Data Processing](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM3OTg3MTkxMw/)
-- [Critical Updates: Cloudflare Outage – November 18, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzUzODMyODE5OA/)
-- [Tech Insights: Building Developer Portals – Unifying Docs, APIs &amp; Tools](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzIwNDUwMDM1MA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
