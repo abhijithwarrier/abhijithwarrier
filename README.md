@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Insights: Career Growth for Developers — Building Your Niche](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcwNzQ2MjQ3Mg/)
 - [Developer Insights: CI/CD Beyond Code – Automating Security &amp; Compliance Checks](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcyMjYyNjg4NQ/)
 - [AWS: Optimising Data Transfer Costs](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcwNzI4NDkyNQ/)
 - [AI Insights: AI-Powered Search Engines: How They Work](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM4MjE1ODM5Ng/)
 - [AW Dev Rethought Radar | Nov 16 – 22, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2Mzc1NDE0NjExOQ/)
-- [Security Insights: OWASP Top 10 – What Developers Should Actually Care About](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzM4MTcwMDEyNg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
