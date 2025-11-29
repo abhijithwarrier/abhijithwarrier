@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Insights: Incident Management 101 – Post-Mortems &amp; Blameless Culture](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzgxMDQ3OTM3Ng/)
 - [AW Dev Rethought Flash: Mixpanel Security Incident – November 9, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDIyNTUzODEwMA/)
 - [Tech Insights: Edge Computing in Practice – Running Workloads Closer to Users](https://awdevrethought.abhijithwarrier.in/learning/MTc2Mzc0NjQ4OTA5OQ/)
 - [Career Insights: Career Growth for Developers — Building Your Niche](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcwNzQ2MjQ3Mg/)
 - [Developer Insights: CI/CD Beyond Code – Automating Security &amp; Compliance Checks](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcyMjYyNjg4NQ/)
-- [AWS: Optimising Data Transfer Costs](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcwNzI4NDkyNQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
