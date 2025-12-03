@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Insights: The Role of Encryption in Modern Applications](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQzNTkzMDY3NA/)
+- [AWS: Simplifying IAM Policies with AWS IAM Policy Autopilot &lpar;Open Source MCP Server&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDYxMzU4MzgyNA/)
 - [AWS: Serverless Databases – Aurora Serverless vs DynamoDB](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDE3NTExNzA2MQ/)
 - [AW Dev Rethought Radar | Nov 23 – 29, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQyMTU5Nzc5Mg/)
 - [AI Insights: AI in Creative Industries — From Art to Music](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzcxODE3OTE1MA/)
-- [Security Insights: Incident Management 101 – Post-Mortems &amp; Blameless Culture](https://awdevrethought.abhijithwarrier.in/learning/MTc2MzgxMDQ3OTM3Ng/)
-- [AW Dev Rethought Flash: Mixpanel Security Incident – November 9, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDIyNTUzODEwMA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
