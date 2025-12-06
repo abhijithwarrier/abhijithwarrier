@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS: re:Invent 2025 — Complete Recap &amp; What It Means for Builders](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDk0ODk4ODA2Mw/)
+- [Developer Insights: Infrastructure as Code Best Practices for 2026](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQ0MDkzNzYwMQ/)
 - [Data Insights: Serverless Data Pipelines – AWS Lambda + S3 + Glue in Action](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQzOTQ3MjY0MQ/)
 - [Architecture Insights: Designing Event-Driven Micro-services for Scalability](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDE3NTIwMjU1OQ/)
 - [Security Insights: The Role of Encryption in Modern Applications](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQzNTkzMDY3NA/)
-- [AWS: Simplifying IAM Policies with AWS IAM Policy Autopilot &lpar;Open Source MCP Server&rpar;](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDYxMzU4MzgyNA/)
-- [AWS: Serverless Databases – Aurora Serverless vs DynamoDB](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDE3NTExNzA2MQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
