@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Insights: AI Code Assistants – Do They Really Boost Developer Productivity?](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDc3Njk4NDIzNg/)
+- [AWS: CloudFormation vs Terraform – Pros and Cons](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTAxODY3Njc0NQ/)
 - [AI Insights: AI for Accessibility — Making Tech Inclusive](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDE3NTM0OTg5OQ/)
 - [AW Dev Rethought Radar | Nov 30 – Dec 6, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDk0NzI4ODIxMA/)
 - [AWS: re:Invent 2025 — Complete Recap &amp; What It Means for Builders](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDk0ODk4ODA2Mw/)
-- [Developer Insights: Infrastructure as Code Best Practices for 2026](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQ0MDkzNzYwMQ/)
-- [Data Insights: Serverless Data Pipelines – AWS Lambda + S3 + Glue in Action](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDQzOTQ3MjY0MQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
