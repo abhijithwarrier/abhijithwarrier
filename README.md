@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Insights: Privacy-Enhancing Technologies &lpar;PETs&rpar; – The Next Frontier in Data Protection](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDc3ODczNDExNQ/)
 - [AI Insights: How AI Is Revolutionizing Drug Discovery](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTAyMDAwMjE1Ng/)
 - [Developer Insights: AI Code Assistants – Do They Really Boost Developer Productivity?](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDc3Njk4NDIzNg/)
 - [AWS: CloudFormation vs Terraform – Pros and Cons](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTAxODY3Njc0NQ/)
 - [AI Insights: AI for Accessibility — Making Tech Inclusive](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDE3NTM0OTg5OQ/)
-- [AW Dev Rethought Radar | Nov 30 – Dec 6, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDk0NzI4ODIxMA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
