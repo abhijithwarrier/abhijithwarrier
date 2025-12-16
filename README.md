@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS: Backup and Archival — Best Practices](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTU1NDgxMjU5NA/)
 - [Architecture Insights: Fault-Tolerant Architectures for Mission-Critical Apps](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTAyMjk4NDI2MQ/)
 - [AW Dev Rethought Radar | Dec 7 – 13, 2025](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTU0OTM2OTk2OQ/)
 - [Architecture Insights: Microsoft’s $17.5B India AI Push: How Enterprise AI Is Being Built at Scale](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTU2MDQ0NzM3Mw/)
 - [Data Insights: Data Contracts – Fixing the Broken Data Pipeline Problem](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDc4MDE4NTEyNw/)
-- [Security Insights: Privacy-Enhancing Technologies &lpar;PETs&rpar; – The Next Frontier in Data Protection](https://awdevrethought.abhijithwarrier.in/learning/MTc2NDc3ODczNDExNQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
