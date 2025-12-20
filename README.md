@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Insights: India’s DPDP Rules — What Changes for Builders and Architects?](https://awdevrethought.abhijithwarrier.in/learning/MTc2NjA4MTI3NTAyNw/)
+- [Security Insights: Secrets Management – Keeping Keys Safe in the Cloud](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTcyMTI4NDEwOA/)
 - [Tech Insights: Generative AI in the Enterprise – Real Use Cases &amp; Architecture](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTcyMDE2MzE2Nw/)
 - [AI Insights: AI in Voice Assistants — The Tech Behind the Scenes](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTU1OTEzNzAxMw/)
 - [Developer Insights: Testing Micro-services – Strategies for Resilience at Scale](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTcxODMyNzg5Mw/)
-- [AWS: Backup and Archival — Best Practices](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTU1NDgxMjU5NA/)
-- [Architecture Insights: Fault-Tolerant Architectures for Mission-Critical Apps](https://awdevrethought.abhijithwarrier.in/learning/MTc2NTAyMjk4NDI2MQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
