@@ -14,5 +14,5 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://awdevrethought.abhijithwarrier.in/github-readme/blog-section/update"
+          feed_list: "https://awdevrethought.com/github-readme/blog-section/update"
           max_post_count: 5
