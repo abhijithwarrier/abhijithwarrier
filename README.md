@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Insights: Python Concurrency Simplified – Threads, Async &amp; Multiprocessing](https://awdevrethought.com/learning/MTc2NjY3ODExMTIwOA/)
+- [Architecture Insights: Architecture Year in Review — Lessons from 2025](https://awdevrethought.com/learning/MTc2NjY3Njg3NTYzMw/)
 - [AWS: Security in a Multi-Cloud Environment](https://awdevrethought.com/learning/MTc2NjE2NTc3MDc4NQ/)
 - [Tech Insights: AI Agents in Production – From Chatbots to Autonomous Workflows](https://awdevrethought.com/learning/MTc2NjMzODMyMzg0MQ/)
 - [Developer Insights: GraphQL vs REST vs gRPC – Choosing the Right API Architecture](https://awdevrethought.com/learning/MTc2NjMzNzM1OTExOA/)
-- [AI Insights: AI Trends to Watch in 2026](https://awdevrethought.com/learning/MTc2NjE2NTUyOTIyMQ/)
-- [Data Insights: Python in the Modern Data Stack – From ETL to AI Pipelines](https://awdevrethought.com/learning/MTc2NjMzNjc2MDQ1Ng/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
