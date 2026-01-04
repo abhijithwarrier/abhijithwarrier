@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Insights: Architecture Decisions You Can’t Easily Undo](https://awdevrethought.com/learning/MTc2NjY4Mzc2NzU5MA/)
 - [Security Insights: API Observability – Monitoring What Happens Beyond 200 OK](https://awdevrethought.com/learning/MTc2NjczMzY5MDIyMA/)
 - [AI Insights: Running LLMs in Production — What Breaks First?](https://awdevrethought.com/learning/MTc2NjY4MTkxMDI2Nw/)
 - [AI Insights: The Hidden Cost of Running LLMs in Production](https://awdevrethought.com/learning/MTc2NjY4MDI1NjM1MA/)
 - [Developer Insights: Python Concurrency Simplified – Threads, Async &amp; Multiprocessing](https://awdevrethought.com/learning/MTc2NjY3ODExMTIwOA/)
-- [Architecture Insights: Architecture Year in Review — Lessons from 2025](https://awdevrethought.com/learning/MTc2NjY3Njg3NTYzMw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
