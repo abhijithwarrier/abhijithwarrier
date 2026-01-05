@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AW Dev Rethought Radar | Year-End Roundup &lpar;Dec 21, 2025 – Jan 3, 2026&rpar;](https://awdevrethought.com/learning/MTc2NzI4NDkyMDQ3OQ/)
 - [Architecture Insights: Architecture Decisions You Can’t Easily Undo](https://awdevrethought.com/learning/MTc2NjY4Mzc2NzU5MA/)
 - [Security Insights: API Observability – Monitoring What Happens Beyond 200 OK](https://awdevrethought.com/learning/MTc2NjczMzY5MDIyMA/)
 - [AI Insights: Running LLMs in Production — What Breaks First?](https://awdevrethought.com/learning/MTc2NjY4MTkxMDI2Nw/)
 - [AI Insights: The Hidden Cost of Running LLMs in Production](https://awdevrethought.com/learning/MTc2NjY4MDI1NjM1MA/)
-- [Developer Insights: Python Concurrency Simplified – Threads, Async &amp; Multiprocessing](https://awdevrethought.com/learning/MTc2NjY3ODExMTIwOA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
