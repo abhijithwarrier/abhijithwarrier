@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS in Production: The Services That Quietly Cost the Most](https://awdevrethought.com/learning/MTc2NzI4MzkyMjY0Mg/)
 - [Production Engineering: Incident Management on AWS — What Actually Happens During an Outage](https://awdevrethought.com/learning/MTc2NzI4MzgzNDc2NA/)
 - [AW Dev Rethought Radar | Year-End Roundup &lpar;Dec 21, 2025 – Jan 3, 2026&rpar;](https://awdevrethought.com/learning/MTc2NzI4NDkyMDQ3OQ/)
 - [Architecture Insights: Architecture Decisions You Can’t Easily Undo](https://awdevrethought.com/learning/MTc2NjY4Mzc2NzU5MA/)
 - [Security Insights: API Observability – Monitoring What Happens Beyond 200 OK](https://awdevrethought.com/learning/MTc2NjczMzY5MDIyMA/)
-- [AI Insights: Running LLMs in Production — What Breaks First?](https://awdevrethought.com/learning/MTc2NjY4MTkxMDI2Nw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
