@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Decisions: How Engineering Decisions Shape Team Productivity?](https://awdevrethought.com/learning/MTc2ODAzMTQwNzI4OQ/)
 - [AI Insights: Why Most AI Proof-of-Concepts Never Reach Production?](https://awdevrethought.com/learning/MTc2NzI4NDEyNjI0Nw/)
 - [CES 2026: What Actually Mattered &lpar;And What It Tells Us About the Next Tech Cycle&rpar;?](https://awdevrethought.com/learning/MTc2Nzg4NzAzOTc5NA/)
 - [AWS in Production: The Services That Quietly Cost the Most](https://awdevrethought.com/learning/MTc2NzI4MzkyMjY0Mg/)
 - [Production Engineering: Incident Management on AWS — What Actually Happens During an Outage](https://awdevrethought.com/learning/MTc2NzI4MzgzNDc2NA/)
-- [AW Dev Rethought Radar | Year-End Roundup &lpar;Dec 21, 2025 – Jan 3, 2026&rpar;](https://awdevrethought.com/learning/MTc2NzI4NDkyMDQ3OQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
