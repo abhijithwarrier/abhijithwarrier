@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Decisions: The Hidden Cost of Context Switching](https://awdevrethought.com/learning/MTc2ODMyMDAzNDAwMQ/)
 - [Architecture Realities: The Cost of Over-Engineering Early](https://awdevrethought.com/learning/MTc2ODAzNzQwNTY2Mg/)
 - [Career Reality Check: Skills That Actually Matter After 5 Years](https://awdevrethought.com/learning/MTc2ODAzNzAzNTI0Nw/)
 - [Engineering Decisions: How Engineering Decisions Shape Team Productivity?](https://awdevrethought.com/learning/MTc2ODAzMTQwNzI4OQ/)
 - [AI Insights: Why Most AI Proof-of-Concepts Never Reach Production?](https://awdevrethought.com/learning/MTc2NzI4NDEyNjI0Nw/)
-- [CES 2026: What Actually Mattered &lpar;And What It Tells Us About the Next Tech Cycle&rpar;?](https://awdevrethought.com/learning/MTc2Nzg4NzAzOTc5NA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
