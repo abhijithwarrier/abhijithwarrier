@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Realities: When Micro-services Hurt More Than They Help](https://awdevrethought.com/learning/MTc2ODkyMzg1OTQ4Ng/)
 - [AI Insights: Latency, Cost, and Accuracy — The AI Trade-off Triangle](https://awdevrethought.com/learning/MTc2ODYzOTczNTc5NA/)
 - [AI in Production: Human-in-the-Loop Isn’t Optional – It’s Architecture](https://awdevrethought.com/learning/MTc2ODYzNzczOTgyMQ/)
 - [Engineering Decisions: The Hidden Cost of Context Switching](https://awdevrethought.com/learning/MTc2ODMyMDAzNDAwMQ/)
 - [Architecture Realities: The Cost of Over-Engineering Early](https://awdevrethought.com/learning/MTc2ODAzNzQwNTY2Mg/)
-- [Career Reality Check: Skills That Actually Matter After 5 Years](https://awdevrethought.com/learning/MTc2ODAzNzAzNTI0Nw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
