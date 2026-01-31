@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Decisions: Code Reviews That Actually Improve Systems](https://awdevrethought.com/learning/MTc2OTUzNzAwODQwOA/)
 - [Architecture Realities: Designing Systems for Teams, Not Just Traffic](https://awdevrethought.com/learning/MTc2OTUzNTc4NjAyNA/)
 - [Security Realities: Why Most AWS Security Breaches Are Configuration Issues?](https://awdevrethought.com/learning/MTc2OTM1MDg5Mjc1Ng/)
 - [Architecture Realities: Scaling Isn’t the Hard Part – Maintaining Systems Is](https://awdevrethought.com/learning/MTc2OTE4NzQzODk0NQ/)
 - [Career Reality Check: Building an AI Portfolio Without Kaggle or Certifications](https://awdevrethought.com/learning/MTc2OTE0Njg0MjU4Mw/)
-- [Architecture Realities: When Micro-services Hurt More Than They Help](https://awdevrethought.com/learning/MTc2ODkyMzg1OTQ4Ng/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
