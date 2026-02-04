@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Architecture: Multi-Region Data Consistency — What Breaks First](https://awdevrethought.com/learning/MTc2OTc4Njc2NzU0Nw/)
 - [AI in Production: Human-in-the-Loop Systems — Where AI Must Stop](https://awdevrethought.com/learning/MTc2OTc4NDUwNTcwMA/)
 - [Engineering Decisions: What Makes Senior Engineers Valuable Beyond Code](https://awdevrethought.com/learning/MTc2OTc4MzU5NDAyNA/)
 - [AW Dev Rethought Radar | Jan 25 – Jan 31, 2026](https://awdevrethought.com/learning/MTc2OTc4NzM2MjQ2MA/)
 - [Engineering Decisions: Code Reviews That Actually Improve Systems](https://awdevrethought.com/learning/MTc2OTUzNzAwODQwOA/)
-- [Architecture Realities: Designing Systems for Teams, Not Just Traffic](https://awdevrethought.com/learning/MTc2OTUzNTc4NjAyNA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
