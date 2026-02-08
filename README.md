@@ -185,10 +185,10 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI in Production: AI Failures in Production — What Went Wrong](https://awdevrethought.com/learning/MTc3MDQwNTAxODk3MA/)
 - [Production Engineering: Technical Debt — When to Fix, When to Ignore](https://awdevrethought.com/learning/MTc2OTk2NDgzMzUzOQ/)
 - [AWS Architecture: Multi-Region Data Consistency — What Breaks First](https://awdevrethought.com/learning/MTc2OTc4Njc2NzU0Nw/)
 - [AI in Production: Human-in-the-Loop Systems — Where AI Must Stop](https://awdevrethought.com/learning/MTc2OTc4NDUwNTcwMA/)
-- [Engineering Decisions: What Makes Senior Engineers Valuable Beyond Code](https://awdevrethought.com/learning/MTc2OTc4MzU5NDAyNA/)
 - [AW Dev Rethought Radar | Jan 25 – Jan 31, 2026](https://awdevrethought.com/learning/MTc2OTc4NzM2MjQ2MA/)
 <!-- BLOG-POST-LIST:END -->
 
