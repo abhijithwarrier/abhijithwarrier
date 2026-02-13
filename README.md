@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS in Production: Cloud Governance — Balancing Speed, Cost, and Control](https://awdevrethought.com/learning/MTc3MDgyOTcwNDU1Nw/)
 - [Architecture Realities: Why Simpler Architectures Often Win at Scale](https://awdevrethought.com/learning/MTc3MDQ4ODAxNzk4NQ/)
 - [AI in Production: AI Observability — Monitoring Models, Prompts, and Drift](https://awdevrethought.com/learning/MTc3MDQ4NzE4ODU1MQ/)
 - [AI in Production: AI Failures in Production — What Went Wrong](https://awdevrethought.com/learning/MTc3MDQwNTAxODk3MA/)
 - [Production Engineering: Technical Debt — When to Fix, When to Ignore](https://awdevrethought.com/learning/MTc2OTk2NDgzMzUzOQ/)
-- [AWS Architecture: Multi-Region Data Consistency — What Breaks First](https://awdevrethought.com/learning/MTc2OTc4Njc2NzU0Nw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
