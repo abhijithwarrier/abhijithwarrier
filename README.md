@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Management Realities: Scaling Engineering Teams Without Slowing Down](https://awdevrethought.com/learning/MTc3MTA2NzI1MTQzMw/)
 - [Security Realities: Security Reviews That Actually Improve Systems](https://awdevrethought.com/learning/MTc3MTAwNzIwNzMzOA/)
 - [AWS in Production: Cloud Governance — Balancing Speed, Cost, and Control](https://awdevrethought.com/learning/MTc3MDgyOTcwNDU1Nw/)
 - [Architecture Realities: Why Simpler Architectures Often Win at Scale](https://awdevrethought.com/learning/MTc3MDQ4ODAxNzk4NQ/)
 - [AI in Production: AI Observability — Monitoring Models, Prompts, and Drift](https://awdevrethought.com/learning/MTc3MDQ4NzE4ODU1MQ/)
-- [AI in Production: AI Failures in Production — What Went Wrong](https://awdevrethought.com/learning/MTc3MDQwNTAxODk3MA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
