@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Systems Realities: How Small Failures Turn Into Major Outages](https://awdevrethought.com/learning/MTc3Mzg0Njc4MTgyMA/)
 - [Career Realities: Why Progress Beyond Senior Developer Becomes Difficult?](https://awdevrethought.com/learning/MTc3MzU5ODgyMzcwNQ/)
 - [Production Engineering: Postmortems That Actually Change Behaviour](https://awdevrethought.com/learning/MTc3MzA0NTE0Mzk2Mg/)
 - [AI Insights: When NOT to Use Generative AI in Enterprise Systems](https://awdevrethought.com/learning/MTc3MTA2NzUxMTU3MA/)
 - [Engineering Management Realities: Scaling Engineering Teams Without Slowing Down](https://awdevrethought.com/learning/MTc3MTA2NzI1MTQzMw/)
-- [Security Realities: Security Reviews That Actually Improve Systems](https://awdevrethought.com/learning/MTc3MTAwNzIwNzMzOA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
