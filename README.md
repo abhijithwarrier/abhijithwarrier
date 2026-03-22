@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Realities: The Cost of “Just One More Metric”](https://awdevrethought.com/learning/MTc3NDAyNTI3NzE2NA/)
 - [AWS in Production: AWS Cost Anomalies — Detecting Spikes Before Finance Does](https://awdevrethought.com/learning/MTc3NDAyNDY0OTExNQ/)
 - [Systems Realities: How Small Failures Turn Into Major Outages](https://awdevrethought.com/learning/MTc3Mzg0Njc4MTgyMA/)
 - [Career Realities: Why Progress Beyond Senior Developer Becomes Difficult?](https://awdevrethought.com/learning/MTc3MzU5ODgyMzcwNQ/)
 - [Production Engineering: Postmortems That Actually Change Behaviour](https://awdevrethought.com/learning/MTc3MzA0NTE0Mzk2Mg/)
-- [AI Insights: When NOT to Use Generative AI in Enterprise Systems](https://awdevrethought.com/learning/MTc3MTA2NzUxMTU3MA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
