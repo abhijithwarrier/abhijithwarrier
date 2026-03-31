@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Realities: When Event-Driven Architectures Backfire](https://awdevrethought.com/learning/MTc3NDczNDA2OTUyNA/)
 - [Security Realities: Securing Internal APIs — The Forgotten Attack Surface](https://awdevrethought.com/learning/MTc3NDExODc4ODMxNg/)
 - [Systems Realities: State Management in Distributed Systems — The Hard Truths](https://awdevrethought.com/learning/MTc3NDExNzI0NzM2Mw/)
 - [Engineering Decisions: Measuring Developer Productivity Without Vanity Metrics](https://awdevrethought.com/learning/MTc3NDExNjI0MjkzMg/)
 - [Data Realities: The Cost of “Just One More Metric”](https://awdevrethought.com/learning/MTc3NDAyNTI3NzE2NA/)
-- [AWS in Production: AWS Cost Anomalies — Detecting Spikes Before Finance Does](https://awdevrethought.com/learning/MTc3NDAyNDY0OTExNQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
