@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Realities: Designing for Debuggability in Distributed Systems](https://awdevrethought.com/learning/MTc3NTkzMDgxNTgwOA/)
 - [Production Engineering: Incident Fatigue — Why Teams Stop Learning from Outages](https://awdevrethought.com/learning/MTc3NTkzMDc2NzQ4Mg/)
 - [Architecture Realities: The Hidden Cost of Over-Engineering](https://awdevrethought.com/learning/MTc3NTkzMjkzMjk4OA/)
 - [AI Insights: Why AI Systems Fail Silently &lpar;And How to Catch Them&rpar;](https://awdevrethought.com/learning/MTc3NTIzOTgyNzU3OA/)
 - [Systems Realities: Learning From Near-Misses in Production Systems](https://awdevrethought.com/learning/MTc3NTIzOTE0MTMyOQ/)
-- [AWS in Production: Serverless Observability — Debugging Distributed Functions in Production](https://awdevrethought.com/learning/MTc3NTIzODgzMTAwMg/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
