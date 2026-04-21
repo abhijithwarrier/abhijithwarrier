@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Systems Realities: Why Systems Fail Gradually Before They Fail Suddenly](https://awdevrethought.com/learning/MTc3NjUwNTM1ODM1NA/)
+- [AW Dev Rethought Flash: Vercel Supply-Chain Incident – April 2026](https://awdevrethought.com/learning/MTc3NjcwODc0OTE0NA/)
+- [AW Dev Rethought Radar | April Pulse &lpar;Apr 1–18, 2026&rpar;](https://awdevrethought.com/learning/MTc3NjUwMDg0NDU4OQ/)
 - [AI in Production: Why AI Proof-of-Concepts Rarely Reach Production](https://awdevrethought.com/learning/MTc3NTkzMTk1MDA4MQ/)
 - [Career Realities: Choosing Boring Technology — A Senior Engineer’s Advantage](https://awdevrethought.com/learning/MTc3NTkzMDg3MTgzNw/)
-- [Architecture Realities: Designing for Debuggability in Distributed Systems](https://awdevrethought.com/learning/MTc3NTkzMDgxNTgwOA/)
-- [Production Engineering: Incident Fatigue — Why Teams Stop Learning from Outages](https://awdevrethought.com/learning/MTc3NTkzMDc2NzQ4Mg/)
-- [Architecture Realities: The Hidden Cost of Over-Engineering](https://awdevrethought.com/learning/MTc3NTkzMjkzMjk4OA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
