@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Realities: Simplicity vs Flexibility in System Design](https://awdevrethought.com/learning/MTc3NjUwNTQ1NTAwNw/)
+- [Product Realities: Why Great Systems Still Fail as Products](https://awdevrethought.com/learning/MTc3NjUwNTQwNDU2Ng/)
 - [Systems Realities: Why Systems Fail Gradually Before They Fail Suddenly](https://awdevrethought.com/learning/MTc3NjUwNTM1ODM1NA/)
 - [AW Dev Rethought Flash: Vercel Supply-Chain Incident – April 2026](https://awdevrethought.com/learning/MTc3NjcwODc0OTE0NA/)
 - [AW Dev Rethought Radar | April Pulse &lpar;Apr 1–18, 2026&rpar;](https://awdevrethought.com/learning/MTc3NjUwMDg0NDU4OQ/)
-- [AI in Production: Why AI Proof-of-Concepts Rarely Reach Production](https://awdevrethought.com/learning/MTc3NTkzMTk1MDA4MQ/)
-- [Career Realities: Choosing Boring Technology — A Senior Engineer’s Advantage](https://awdevrethought.com/learning/MTc3NTkzMDg3MTgzNw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
