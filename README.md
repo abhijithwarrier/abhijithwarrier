@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Systems Realities: Debugging Distributed Systems — Where to Start](https://awdevrethought.com/learning/MTc3NzY2MTc1ODQ1Mw/)
 - [Data Realities: Data Lineage and Observability – Bringing Clarity to Modern Data Stacks](https://awdevrethought.com/learning/MTc3NzIyMDI2MTkyMg/)
 - [AI Insights: The Illusion of AI Accuracy in Real Products](https://awdevrethought.com/learning/MTc3NzIyMDE1MjcwMg/)
 - [Performance Realities: Performance Is a Design Problem, Not a Fix](https://awdevrethought.com/learning/MTc3NzIyMDEwNzczNg/)
 - [Systems Realities: Why Logs Alone Are Not Enough](https://awdevrethought.com/learning/MTc3NzIyMDA1NzI1MQ/)
-- [Security Realities: Why “Compliance-Driven Security” Often Backfires](https://awdevrethought.com/learning/MTc3NjUwNjE3OTUwMw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
