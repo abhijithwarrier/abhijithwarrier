@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Resilience Engineering: Designing Systems That Expect Failure](https://awdevrethought.com/learning/MTc3ODQyNTYxNTI5OA/)
 - [AI in Production: AI Systems Don’t Fail Fast — They Fail Slowly](https://awdevrethought.com/learning/MTc3ODQyNTU1NTE5OQ/)
 - [Data Realities: When Analytics Lies – Common Causes of Data Mismatch](https://awdevrethought.com/learning/MTc3NzIyMDMwMjMwMA/)
 - [Systems Realities: When Monitoring Lies — False Signals in Production](https://awdevrethought.com/learning/MTc3NzY2MTkwNTQyMQ/)
 - [Engineering Management Realities: Decision-Making Under Uncertainty in Engineering Teams](https://awdevrethought.com/learning/MTc3NzY2MTgzNzg4Ng/)
-- [Systems Realities: Debugging Distributed Systems — Where to Start](https://awdevrethought.com/learning/MTc3NzY2MTc1ODQ1Mw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
