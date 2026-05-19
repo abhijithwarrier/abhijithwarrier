@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI in Production: The Hidden Engineering Work Behind “Simple” AI Features](https://awdevrethought.com/learning/MTc3ODk1NjYyNDQ4MA/)
 - [Security Realities: Secrets Sprawl – How It Happens and How to Stop It](https://awdevrethought.com/learning/MTc3ODQyNTcwMDc0Mg/)
 - [System Realities: Why “Everything Looks Fine” Before an Outage](https://awdevrethought.com/learning/MTc3ODQyNTY1NTU4Mw/)
 - [Resilience Engineering: Designing Systems That Expect Failure](https://awdevrethought.com/learning/MTc3ODQyNTYxNTI5OA/)
 - [AI in Production: AI Systems Don’t Fail Fast — They Fail Slowly](https://awdevrethought.com/learning/MTc3ODQyNTU1NTE5OQ/)
-- [Data Realities: When Analytics Lies – Common Causes of Data Mismatch](https://awdevrethought.com/learning/MTc3NzIyMDMwMjMwMA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
