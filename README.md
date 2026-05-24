@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI in Production: The Problem With Treating LLMs Like APIs](https://awdevrethought.com/learning/MTc3ODk1Njc2MTk3Ng/)
 - [Systems Realities: Tracing vs Logging — What Actually Helps During Incidents](https://awdevrethought.com/learning/MTc3ODk1NjcyMTExNQ/)
 - [Engineering Management Realities: Why Alignment Is Harder Than Execution](https://awdevrethought.com/learning/MTc3ODk1NjY3Mjc0Nw/)
 - [AI in Production: The Hidden Engineering Work Behind “Simple” AI Features](https://awdevrethought.com/learning/MTc3ODk1NjYyNDQ4MA/)
 - [Security Realities: Secrets Sprawl – How It Happens and How to Stop It](https://awdevrethought.com/learning/MTc3ODQyNTcwMDc0Mg/)
-- [System Realities: Why “Everything Looks Fine” Before an Outage](https://awdevrethought.com/learning/MTc3ODQyNTY1NTU4Mw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
