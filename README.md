@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Tools &amp; Practices: Design Systems for Developers – Creating Consistent UI at Scale](https://awdevrethought.com/learning/MTc4MDc0MTY5NDE0NQ/)
 - [AI in Production: AI Systems Need SLAs Too — But Different Ones](https://awdevrethought.com/learning/MTc4MDc0MTYxNjA4MA/)
 - [Data Insights: Why Most Dashboards Don’t Drive Decisions](https://awdevrethought.com/learning/MTc4MDc0MTU0NTE0NQ/)
 - [Systems Realities: The Hidden Complexity of Feature Flags](https://awdevrethought.com/learning/MTc4MDc0MTQ3NDgwMw/)
 - [Security Realities: The Trade-Off Between Developer Velocity and Security](https://awdevrethought.com/learning/MTc4MDczNzYyMDkyNw/)
-- [Platform Engineering Realities: Platform vs DevOps — What Actually Changes](https://awdevrethought.com/learning/MTc4MDY3Nzg1NTE5OQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
