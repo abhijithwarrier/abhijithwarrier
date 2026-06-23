@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [ML in Production: Debugging ML Pipelines Is Harder Than You Think](https://awdevrethought.com/learning/MTc4MTg4ODcyMjk3Mg/)
 - [AI in Production: When Human Review Becomes the Bottleneck](https://awdevrethought.com/learning/MTc4MTM4MzkzOTY0NA/)
 - [Browser Internals: What Happens Before Your JavaScript Runs](https://awdevrethought.com/learning/MTc4MTM4MTU5MDc2MA/)
 - [Data Realities: Why Data Contracts Are Becoming Essential](https://awdevrethought.com/learning/MTc4MTM4MDMwNzg4Nw/)
 - [Resilience Engineering: Why Redundancy Alone Doesn&#39;t Guarantee Resilience](https://awdevrethought.com/learning/MTc4MTM4MDIxNzU3NQ/)
-- [Developer Tools &amp; Practices: Design Systems for Developers – Creating Consistent UI at Scale](https://awdevrethought.com/learning/MTc4MDc0MTY5NDE0NQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
