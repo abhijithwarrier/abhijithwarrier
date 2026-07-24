@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Platform Engineering: Why Engineering Teams Overbuild Internal Platforms](https://awdevrethought.com/learning/MTc4MzcwNTQ0NzYyOQ/)
 - [Browser Internals: Why Browser Caching Is More Complicated Than You Think](https://awdevrethought.com/learning/MTc4MzcwNTQxODM3Mg/)
 - [Architecture Realities: Why Simplifying Architecture Is Harder Than Expanding It](https://awdevrethought.com/learning/MTc4MzA5NTQ2NDg5Mg/)
 - [Architecture Realities: The Real Cost of API Over-Abstraction](https://awdevrethought.com/learning/MTc4MzA5NjgwNTIwNg/)
 - [Data Realities: Data Pipelines Break More Than APIs — Here&#39;s Why](https://awdevrethought.com/learning/MTc4MzA5NjA3OTE1OQ/)
-- [Architecture Realities: Why Distributed Systems Prefer &quot;Good Enough&quot; Over Perfect](https://awdevrethought.com/learning/MTc4MzA5NTc2NDUwOQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
