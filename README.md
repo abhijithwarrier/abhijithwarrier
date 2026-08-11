@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Realities: The Myth of &quot;Clean Architecture&quot; in Production](https://awdevrethought.com/learning/MTc4NjM4MTQ2MDM0MA/)
 - [Engineering Decisions: Code Reviews That Improve Systems, Not Egos](https://awdevrethought.com/learning/MTc4NDkyMzkwNDA0NA/)
 - [AI in Production: Why AI Systems Need Observability More Than Accuracy](https://awdevrethought.com/learning/MTc4NDkyMzgzNjYyNw/)
 - [Fintech Engineering: The Engineering Behind Real-Time Fraud Detection](https://awdevrethought.com/learning/MTc4NDkyMzc4ODIyMg/)
 - [AI in Production: Why AI Systems Need Guardrails More Than Accuracy](https://awdevrethought.com/learning/MTc4NDkyMzczOTgyNw/)
-- [Security Realities: Threat Modeling for Engineers Who Actually Ship Code](https://awdevrethought.com/learning/MTc4MzcwNTM0NjY5Nw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
