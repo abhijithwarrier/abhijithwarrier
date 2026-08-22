@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Realities: Designing Around Failure Domains](https://awdevrethought.com/learning/MTc4NjcxNDk2Nzc0NQ/)
+- [Product Engineering: When Feature Flags Become Technical Debt](https://awdevrethought.com/learning/MTc4NjcxNDg4NzA4Nw/)
 - [Performance Realities: Why Most Performance Optimisations Don&#39;t Matter](https://awdevrethought.com/learning/MTc4NjcxNDgyOTg2Mw/)
 - [AI in Production: Why LLM Evaluation Is Still an Unsolved Problem](https://awdevrethought.com/learning/MTc4NjcxNDY5MDc2Mw/)
 - [AI in Production: When AI Becomes Too Expensive to Scale](https://awdevrethought.com/learning/MTc4NjcxNDYyNTY0MA/)
-- [Product Realities: Data Freshness Is a Product Decision, Not a Tech One](https://awdevrethought.com/learning/MTc4NjcxNDU1NDc1OA/)
-- [Engineering Management Realities: The Real Bottleneck in Engineering Teams Is Not Code](https://awdevrethought.com/learning/MTc4NjU1MTE2NzkwNw/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
