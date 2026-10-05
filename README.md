@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Realities: Why Debugging Is the Core Skill of Senior Engineers](https://awdevrethought.com/learning/MTc5MDk3MzI3ODE2NA/)
 - [Security Realities: Why Security Tools Don’t Fix Security Culture](https://awdevrethought.com/learning/MTc4ODAyNjQ4NTg3Mw/)
 - [Architecture Realities: The Cost of Ignoring Backward Compatibility](https://awdevrethought.com/learning/MTc4ODAyNjM4ODY2Ng/)
 - [AI in Production: Why AI Systems Need Continuous Evaluation Pipelines](https://awdevrethought.com/learning/MTc4ODAyNjM1MzM0Ng/)
 - [Systems Realities: Systems Fail Where Assumptions Are Wrong](https://awdevrethought.com/learning/MTc4NzQxNDQ4Mjg5OA/)
-- [Architecture Realities: Why Observability Should Influence Architecture Decisions](https://awdevrethought.com/learning/MTc4NzQxNDUzNDE1OA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
