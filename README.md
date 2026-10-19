@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI in Production: When AI Agents Go Off-Script](https://awdevrethought.com/learning/MTc5MjM0MjA1MjQ5OQ/)
 - [Tech Drop: Apple’s First Foldable Sold Out Before It Even Shipped](https://awdevrethought.com/learning/MTc5MjE4MTI1Nzc2MQ/)
 - [The Rethought — The Math: $3.5 Trillion That Might Not Exist](https://awdevrethought.com/learning/MTc5MjE3OTY2OTkyNw/)
 - [ML in Production: Why Most ML Models Never Reach Production](https://awdevrethought.com/learning/MTc5MTczNzYzNjAwNw/)
 - [AWS Engineering: The Trade-off Between Observability and Cost](https://awdevrethought.com/learning/MTc5MTczNzU4NTMwMA/)
-- [AW Dev Rethought Flash: Japan Declares First Cyberspace Emergency — What Developers Need to Know](https://awdevrethought.com/learning/MTc5MTkwNDk3MTY5OA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
