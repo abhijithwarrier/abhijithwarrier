@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Frontiers: The Proof That Took 167 Years — And an AI](https://awdevrethought.com/learning/MTc5MjQzMjk4MTczMQ/)
 - [AI in Production: When AI Agents Go Off-Script](https://awdevrethought.com/learning/MTc5MjM0MjA1MjQ5OQ/)
 - [Tech Drop: Apple’s First Foldable Sold Out Before It Even Shipped](https://awdevrethought.com/learning/MTc5MjE4MTI1Nzc2MQ/)
 - [The Rethought — The Math: $3.5 Trillion That Might Not Exist](https://awdevrethought.com/learning/MTc5MjE3OTY2OTkyNw/)
 - [ML in Production: Why Most ML Models Never Reach Production](https://awdevrethought.com/learning/MTc5MTczNzYzNjAwNw/)
-- [AWS Engineering: The Trade-off Between Observability and Cost](https://awdevrethought.com/learning/MTc5MTczNzU4NTMwMA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
