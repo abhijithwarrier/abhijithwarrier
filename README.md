@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Realities: Why Teams Misinterpret Metrics and Build Wrong Systems](https://awdevrethought.com/learning/MTc5MjE4NDIwNTgyNQ/)
+- [AW Dev Rethought Flash: When the Trust Itself Breaks — The eMudhra CA Compromise](https://awdevrethought.com/learning/MTc5MjYxMjkwNjA2NA/)
 - [AW Dev Rethought Flash: SBI Data Is on BreachForums — And the Entry Point Is Still Unknown](https://awdevrethought.com/learning/MTc5MjU3NDQzODU5MQ/)
-- [AI Frontiers: The Proof That Took 167 Years — And an AI](https://awdevrethought.com/learning/MTc5MjQzMjk4MTczMQ/)
+- [Data Realities: Why Teams Misinterpret Metrics and Build Wrong Systems](https://awdevrethought.com/learning/MTc5MjE4NDIwNTgyNQ/)
 - [Infrastructure Deep Dive: Why Kubernetes Is Easy to Start and Hard to Operate](https://awdevrethought.com/learning/MTc5MjE4NDczNzgyNg/)
-- [AI in Production: When AI Agents Go Off-Script](https://awdevrethought.com/learning/MTc5MjM0MjA1MjQ5OQ/)
+- [AI Frontiers: The Proof That Took 167 Years — And an AI](https://awdevrethought.com/learning/MTc5MjQzMjk4MTczMQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
