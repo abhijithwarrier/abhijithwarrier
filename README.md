@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AW Dev Rethought Radar | October Pulse &lpar;Oct 18–24, 2026&rpar;](https://awdevrethought.com/learning/MTc5Mjc3NDg0MjkwMg/)
+- [AI Frontiers: OpenAI Just Moved Into Google’s House](https://awdevrethought.com/learning/MTc5MjYwMzA0NzM5OA/)
 - [AW Dev Rethought Flash: Black October — The Month the Internet Had a Very Bad Time](https://awdevrethought.com/learning/MTc5MjcyOTQ3NzY0MA/)
 - [AW Dev Rethought Flash: When the Trust Itself Breaks — The eMudhra CA Compromise](https://awdevrethought.com/learning/MTc5MjYxMjkwNjA2NA/)
 - [AW Dev Rethought Flash: One Zone Failed. Two Zones Watched. Google Has No Answer.](https://awdevrethought.com/learning/MTc5MjY3MDk0NDUyMw/)
-- [AW Dev Rethought Flash: SBI Data Is on BreachForums — And the Entry Point Is Still Unknown](https://awdevrethought.com/learning/MTc5MjU3NDQzODU5MQ/)
-- [Data Realities: Why Teams Misinterpret Metrics and Build Wrong Systems](https://awdevrethought.com/learning/MTc5MjE4NDIwNTgyNQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
