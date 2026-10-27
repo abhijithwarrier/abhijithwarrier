@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Career Realities: Microsoft Just Offered a Quarter of Its Workforce a Way Out](https://awdevrethought.com/learning/MTc5MzA4NTI0NTM4OQ/)
+- [Security Realities: Google&#39;s Privacy Policy Update — AI and Data Privacy](https://awdevrethought.com/learning/MTc5Mjg1NTg5NTk2NA/)
+- [AW Dev Rethought Flash: Tailworm — 11 Unpatched Tailscale Flaws and No Fix Yet](https://awdevrethought.com/learning/MTc5MzAyNDQ3NTM1NQ/)
 - [Fintech Internals: Why Financial Data Is Harder to Model Than You Think](https://awdevrethought.com/learning/MTc5Mjg1NDc2ODgwNQ/)
 - [Networking Internals: Why CDNs Fail in Ways You Don&#39;t Expect](https://awdevrethought.com/learning/MTc5MjE4NTI1ODY1Nw/)
-- [AW Dev Rethought Radar | October Pulse &lpar;Oct 18–24, 2026&rpar;](https://awdevrethought.com/learning/MTc5Mjc3NDg0MjkwMg/)
-- [AI Frontiers: OpenAI Just Moved Into Google’s House](https://awdevrethought.com/learning/MTc5MjYwMzA0NzM5OA/)
-- [AW Dev Rethought Flash: Black October — The Month the Internet Had a Very Bad Time](https://awdevrethought.com/learning/MTc5MjcyOTQ3NzY0MA/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
