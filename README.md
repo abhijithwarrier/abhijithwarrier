@@ -185,11 +185,11 @@
 <h2 align="left"> 📰 <span style="color:#FFD700">Latest Insights from My Blog</span></h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Realities: The Silent Cost of Schema Changes](https://awdevrethought.com/learning/MTc5Mjg1NDg2MDQzOA/)
 - [AW Dev Rethought Flash: Your Editor Runs Their Code Before You Read It](https://awdevrethought.com/learning/MTc5MzI1MDI0OTc3OA/)
+- [AI Frontiers: Microsoft&#39;s AI Takes on Medical Diagnosis](https://awdevrethought.com/learning/MTc5Mjg1NTg1NTc0Nw/)
 - [ML in Production: Why ML Models Degrade After Deployment](https://awdevrethought.com/learning/MTc5Mjg1NDgxMzk2MQ/)
 - [Career Realities: Microsoft Just Offered a Quarter of Its Workforce a Way Out](https://awdevrethought.com/learning/MTc5MzA4NTI0NTM4OQ/)
-- [Security Realities: Google&#39;s Privacy Policy Update — AI and Data Privacy](https://awdevrethought.com/learning/MTc5Mjg1NTg5NTk2NA/)
-- [AW Dev Rethought Flash: Tailworm — 11 Unpatched Tailscale Flaws and No Fix Yet](https://awdevrethought.com/learning/MTc5MzAyNDQ3NTM1NQ/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
