@@ -16,3 +16,5 @@ jobs:
         with:
           feed_list: "https://awdevrethought.com/github-readme/blog-section/update"
           max_post_count: 5
+          template: '+ $date  <a href="$url">$title</a>$newline'
+          date_format: "yyyy.mm.dd"

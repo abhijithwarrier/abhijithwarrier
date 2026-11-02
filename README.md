@@ -209,54 +209,84 @@ class AbhijithWarrier(Engineer):
   <tr>
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/263959ad-cfcf-4c4a-af6e-b8ffa5476067/public_url"><img src="https://abhijithwarrier.in/certs/SAP.png?raw=1" alt="AWS Solutions Architect – Professional" width="96" height="96"/></a><br/>
-      <sub><b>Solutions Architect</b><br/>Professional</sub>
+      <b>Solutions Architect</b><br/><sub>Professional</sub>
     </td>
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url"><img src="https://abhijithwarrier.in/certs/AIF.png?raw=1" alt="AWS AI Practitioner" width="96" height="96"/></a><br/>
-      <sub><b>AI Practitioner</b><br/>Foundational</sub>
+      <b>AI Practitioner</b><br/><sub>Foundational</sub>
     </td>
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/fc5c8c2b-d9eb-44c3-bd78-36d7b05e48e4/public_url"><img src="https://abhijithwarrier.in/certs/SAA.png?raw=1" alt="AWS Solutions Architect – Associate" width="96" height="96"/></a><br/>
-      <sub><b>Solutions Architect</b><br/>Associate</sub>
+      <b>Solutions Architect</b><br/><sub>Associate</sub>
     </td>
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/6b334cda-aae3-4b99-b93e-63ffe9d23c5a/public_url"><img src="https://abhijithwarrier.in/certs/DVA.png?raw=1" alt="AWS Developer – Associate" width="96" height="96"/></a><br/>
-      <sub><b>Developer</b><br/>Associate</sub>
+      <b>Developer</b><br/><sub>Associate</sub>
     </td>
     <td align="center" width="150">
       <a href="https://www.credly.com/badges/4b99e0c4-eaf9-47c0-a42d-28d2206567d3/public_url"><img src="https://abhijithwarrier.in/certs/CP.png?raw=1" alt="AWS Cloud Practitioner" width="96" height="96"/></a><br/>
-      <sub><b>Cloud Practitioner</b><br/>Foundational</sub>
+      <b>Cloud Practitioner</b><br/><sub>Foundational</sub>
     </td>
   </tr>
 </table>
 
-## `06` &nbsp;latest from the blog
+## `06` &nbsp;blog.log
 
+<pre>
+<b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
 <!-- BLOG-POST-LIST:START -->
-- [AW Dev Rethought Flash: Claude Code’s Cursor Extension Was Backdoored for 12 Hours](https://awdevrethought.com/learning/MTc5MzQ4MDcxMzc0Mg/)
-- [AW Dev Rethought Radar | October Pulse &lpar;Oct 25–31, 2026&rpar;](https://awdevrethought.com/learning/MTc5MzQzNjQzODM1MA/)
-- [AW Dev Rethought Flash: $6.3 Billion, and Not One Stolen Key](https://awdevrethought.com/learning/MTc5MzQ1MzQxNDUyMg/)
-- [Data Realities: The Silent Cost of Schema Changes](https://awdevrethought.com/learning/MTc5Mjg1NDg2MDQzOA/)
-- [AW Dev Rethought Flash: Your Editor Runs Their Code Before You Read It](https://awdevrethought.com/learning/MTc5MzI1MDI0OTc3OA/)
++ 2026.11.02  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDU0NTg5NA/">Resilience Engineering: Why Incident Reviews Become Compliance Theatre</a>
++ 2026.11.01  <a href="https://awdevrethought.com/learning/MTc5MzQ4MDcxMzc0Mg/">AW Dev Rethought Flash: Claude Code’s Cursor Extension Was Backdoored for 12 Hours</a>
++ 2026.10.31  <a href="https://awdevrethought.com/learning/MTc5MzQzNjQzODM1MA/">AW Dev Rethought Radar | October Pulse &lpar;Oct 25–31, 2026&rpar;</a>
++ 2026.10.31  <a href="https://awdevrethought.com/learning/MTc5MzQ1MzQxNDUyMg/">AW Dev Rethought Flash: $6.3 Billion, and Not One Stolen Key</a>
++ 2026.10.30  <a href="https://awdevrethought.com/learning/MTc5Mjg1NDg2MDQzOA/">Data Realities: The Silent Cost of Schema Changes</a>
 <!-- BLOG-POST-LIST:END -->
+</pre>
 
 <p align="right"><a href="https://awdevrethought.com"><sub>→ read more on AW Dev Rethought</sub></a></p>
 
-## `07` &nbsp;ecosystem
+## `07` &nbsp;youtube
+
+<pre>
+<b>➜ ~</b> ls -t ~/youtube/<a href="https://www.youtube.com/@awdevrethought">@awdevrethought</a> | head -3   <i># visual explainers on how tech really works</i>
+</pre>
+
+<!-- YOUTUBE:START -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=MGRbMA7WUFY"><img src="https://i.ytimg.com/vi/MGRbMA7WUFY/hq720.jpg" alt="How It Actually Works: What Happens When You Type git commit? Blobs, Trees &amp; Hashes Explained 🌳" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=MGRbMA7WUFY"><b>How It Actually Works: What Happens When You Type git commit? Blobs, Trees &amp; Hashes Explained 🌳</b></a><br/><code>2026.11.02</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><img src="https://i.ytimg.com/vi/et_2HNkmUek/hq720.jpg" alt="AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><b>AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖</b></a><br/><code>2026.11.01</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=TlZbCHIlS8w"><img src="https://i.ytimg.com/vi/TlZbCHIlS8w/hq720.jpg" alt="How HTTPS Keeps Your Data Safe: The TLS Handshake Explained 🔒" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=TlZbCHIlS8w"><b>How HTTPS Keeps Your Data Safe: The TLS Handshake Explained 🔒</b></a><br/><code>2026.10.30</code>
+    </td>
+  </tr>
+</table>
+<!-- YOUTUBE:END -->
+
+<p align="right"><a href="https://www.youtube.com/@awdevrethought"><sub>→ watch more on YouTube</sub></a></p>
+
+## `08` &nbsp;ecosystem
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <a href="https://abhijithwarrier.in"><img src="https://abhijithwarrier.in/profile/AW1.jpeg" width="48" height="48" alt="Website"/><br/><sub><b>abhijithwarrier.in</b><br/>portfolio</sub></a>
+      <a href="https://abhijithwarrier.in"><img src="https://abhijithwarrier.in/profile/AW1.jpeg" width="48" height="48" alt="Website"/><br/><b>abhijithwarrier.in</b><br/><sub>portfolio</sub></a>
     </td>
     <td align="center" width="150">
-      <a href="https://awdevrethought.abhijithwarrier.in"><img src="https://awdevrethought.abhijithwarrier.in/static/images/logo/aw-dev-rethought-logo.png" width="48" height="48" alt="AW Dev Rethought"/><br/><sub><b>AW Dev Rethought</b><br/>tech odyssey</sub></a>
+      <a href="https://awdevrethought.abhijithwarrier.in"><img src="https://awdevrethought.abhijithwarrier.in/static/images/logo/aw-dev-rethought-logo.png" width="48" height="48" alt="AW Dev Rethought"/><br/><b>AW Dev Rethought</b><br/><sub>tech odyssey</sub></a>
     </td>
     <td align="center" width="150">
-      <a href="https://awdevtools.abhijithwarrier.in"><img src="https://awdevtools.abhijithwarrier.in/logo/aw-dev-tools-logo.png" width="48" height="48" alt="AW Dev Tools"/><br/><sub><b>AW Dev Tools</b><br/>developer's toolbox</sub></a>
+      <a href="https://awdevtools.abhijithwarrier.in"><img src="https://awdevtools.abhijithwarrier.in/logo/aw-dev-tools-logo.png" width="48" height="48" alt="AW Dev Tools"/><br/><b>AW Dev Tools</b><br/><sub>developer's toolbox</sub></a>
     </td>
     <td align="center" width="150">
-      <a href="https://treziropark.abhijithwarrier.in"><img src="https://awdevrethought.abhijithwarrier.in/static/images/logo/treziropark-logo.png" width="48" height="48" alt="TreziroPark"/><br/><sub><b>TreziroPark</b><br/>digital store</sub></a>
+      <a href="https://treziropark.abhijithwarrier.in"><img src="https://awdevrethought.abhijithwarrier.in/static/images/logo/treziropark-logo.png" width="48" height="48" alt="TreziroPark"/><br/><b>TreziroPark</b><br/><sub>digital store</sub></a>
     </td>
   </tr>
 </table>
@@ -269,13 +299,13 @@ class AbhijithWarrier(Engineer):
 | 📒 | [7-Day AI Crash Course](https://treziropark.abhijithwarrier.in/l/ai-crash-course) | Seven-day AI fundamentals course |
 | 🖼️ | [Geometry Series · Offset Dimensions](https://treziropark.abhijithwarrier.in/l/geometry-series-offset-dimensions?layout=profile) | Geometric wallpaper packs |
 
-## `08` &nbsp;telemetry
+## `09` &nbsp;telemetry
 
 <p align="center">
   <img src=".assets/telemetry.svg" alt="GitHub contributions, streaks, stars, repos and followers" width="100%" />
 </p>
 
-## `09` &nbsp;ping me
+## `10` &nbsp;ping me
 
 ```bash
 $ echo "collabs, roles, ideas" | mail talk2me@abhijithwarrier.in
