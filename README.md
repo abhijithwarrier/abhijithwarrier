@@ -259,7 +259,7 @@ class AbhijithWarrier(Engineer):
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><img src="https://i.ytimg.com/vi/et_2HNkmUek/hq720.jpg" alt="AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><b>AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖</b></a><br/><code>2026.11.01</code>
+      <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><b>AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖</b></a><br/><code>2026.10.31</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=TlZbCHIlS8w"><img src="https://i.ytimg.com/vi/TlZbCHIlS8w/hq720.jpg" alt="How HTTPS Keeps Your Data Safe: The TLS Handshake Explained 🔒" width="100%"/></a>
