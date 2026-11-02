@@ -54,14 +54,14 @@ class AbhijithWarrier(Engineer):
 ## `02` &nbsp;now.log
 
 ```diff
-+ 2026.10  Running a Python lab series: algorithms, decision science, information theory & systems
-+ 2026.10  AI-ML-Security-Lab: simulating attacks on ML models and building defenses
-+ 2026.10  Publishing "Radar" weekly recaps and "Flash" security briefs on AW Dev Rethought
++ 2026.11  Running Python series on Instagram @python_scripts: algorithms, decision science, systems, AI security & more
++ 2026.11  Writing on AW Dev Rethought: regular deep-dive blogs, "Radar" weekly recaps & "Flash" briefs
++ 2026.11  Making visual tech explainers on YouTube @awdevrethought: how tech really works, AI, security
 ```
 
 ## `03` &nbsp;featured repos
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -207,25 +207,25 @@ class AbhijithWarrier(Engineer):
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
+    <td align="center" valign="top" width="150">
       <a href="https://www.credly.com/badges/263959ad-cfcf-4c4a-af6e-b8ffa5476067/public_url"><img src="https://abhijithwarrier.in/certs/SAP.png?raw=1" alt="AWS Solutions Architect – Professional" width="96" height="96"/></a><br/>
-      <b>Solutions Architect</b><br/><sub>Professional</sub>
+      <b>Solutions Architect</b>
     </td>
-    <td align="center" width="150">
+    <td align="center" valign="top" width="150">
       <a href="https://www.credly.com/badges/a9750b0a-598c-4ffa-b501-646c1bd92538/public_url"><img src="https://abhijithwarrier.in/certs/AIF.png?raw=1" alt="AWS AI Practitioner" width="96" height="96"/></a><br/>
-      <b>AI Practitioner</b><br/><sub>Foundational</sub>
+      <b>AI Practitioner</b>
     </td>
-    <td align="center" width="150">
+    <td align="center" valign="top" width="150">
       <a href="https://www.credly.com/badges/fc5c8c2b-d9eb-44c3-bd78-36d7b05e48e4/public_url"><img src="https://abhijithwarrier.in/certs/SAA.png?raw=1" alt="AWS Solutions Architect – Associate" width="96" height="96"/></a><br/>
-      <b>Solutions Architect</b><br/><sub>Associate</sub>
+      <b>Solutions Architect</b>
     </td>
-    <td align="center" width="150">
+    <td align="center" valign="top" width="150">
       <a href="https://www.credly.com/badges/6b334cda-aae3-4b99-b93e-63ffe9d23c5a/public_url"><img src="https://abhijithwarrier.in/certs/DVA.png?raw=1" alt="AWS Developer – Associate" width="96" height="96"/></a><br/>
-      <b>Developer</b><br/><sub>Associate</sub>
+      <b>Developer</b>
     </td>
-    <td align="center" width="150">
+    <td align="center" valign="top" width="150">
       <a href="https://www.credly.com/badges/4b99e0c4-eaf9-47c0-a42d-28d2206567d3/public_url"><img src="https://abhijithwarrier.in/certs/CP.png?raw=1" alt="AWS Cloud Practitioner" width="96" height="96"/></a><br/>
-      <b>Cloud Practitioner</b><br/><sub>Foundational</sub>
+      <b>Cloud Practitioner</b>
     </td>
   </tr>
 </table>
