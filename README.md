@@ -291,21 +291,22 @@ class AbhijithWarrier(Engineer):
   </tr>
 </table>
 
-**⟢ Built & curated by me**
+## `09` &nbsp;built &amp; curated
 
-| | Product | What it is |
-|:-:|:--|:--|
-| 📗 | [7-Day Deep Learning Bootcamp](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp) | Seven-day guided deep learning course |
-| 📒 | [7-Day AI Crash Course](https://treziropark.abhijithwarrier.in/l/ai-crash-course) | Seven-day AI fundamentals course |
-| 🖼️ | [Geometry Series · Offset Dimensions](https://treziropark.abhijithwarrier.in/l/geometry-series-offset-dimensions?layout=profile) | Geometric wallpaper packs |
+|    | Product                                                                                         | What it is                                 |
+|:--:|:------------------------------------------------------------------------------------------------|:-------------------------------------------|
+| 📘 | [AI Foundations Bundle](https://treziropark.gumroad.com/l/ai-foundations-bundle)                | From AI Basics to Deep Learning & NLP      |
+| 📗 | [NLP & LLM Foundations](https://treziropark.abhijithwarrier.in/l/nlp-llm-foundations)           | From Words to Intelligence                 |
+| 📒 | [7-Day Deep Learning Bootcamp](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp) | Build & Train Neural Networks from Scratch |
+| 📕 | [7-Day AI Crash Course](https://treziropark.gumroad.com/l/ai-crash-course)                      | Learn AI & Machine Learning from Scratch   |
 
-## `09` &nbsp;telemetry
+## `10` &nbsp;telemetry
 
 <p align="center">
   <img src=".assets/telemetry.svg" alt="GitHub contributions, streaks, stars, repos and followers" width="100%" />
 </p>
 
-## `10` &nbsp;ping me
+## `11` &nbsp;ping me
 
 ```bash
 $ echo "collabs, roles, ideas" | mail talk2me@abhijithwarrier.in
