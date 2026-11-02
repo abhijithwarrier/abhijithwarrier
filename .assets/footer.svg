@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" fill="none">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003562"/>
+      <stop offset="0.5" stop-color="#1B263B"/>
+      <stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <path fill="url(#w)" fill-opacity="0.45">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0 60 C200 20 400 100 600 60 C800 20 1000 100 1200 60 V140 H0Z;
+              M0 60 C200 100 400 20 600 60 C800 100 1000 20 1200 60 V140 H0Z;
+              M0 60 C200 20 400 100 600 60 C800 20 1000 100 1200 60 V140 H0Z"/>
+  </path>
+  <path fill="url(#w)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 80 C250 50 450 110 600 80 C750 50 950 110 1200 80 V140 H0Z;
+              M0 80 C250 110 450 50 600 80 C750 110 950 50 1200 80 V140 H0Z;
+              M0 80 C250 50 450 110 600 80 C750 50 950 110 1200 80 V140 H0Z"/>
+  </path>
+  <text x="600" y="120" text-anchor="middle" class="mono" font-size="18" fill="#FFFFFF" letter-spacing="2">code smarter  ·  build bigger  ·  share freely</text>
+</svg>
