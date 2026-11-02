@@ -293,12 +293,33 @@ class AbhijithWarrier(Engineer):
 
 ## `09` &nbsp;built &amp; curated
 
-|    | Product                                                                                         | What it is                                 |
-|:--:|:------------------------------------------------------------------------------------------------|:-------------------------------------------|
-| 📘 | [AI Foundations Bundle](https://treziropark.gumroad.com/l/ai-foundations-bundle)                | From AI Basics to Deep Learning & NLP      |
-| 📗 | [NLP & LLM Foundations](https://treziropark.abhijithwarrier.in/l/nlp-llm-foundations)           | From Words to Intelligence                 |
-| 📒 | [7-Day Deep Learning Bootcamp](https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp) | Build & Train Neural Networks from Scratch |
-| 📕 | [7-Day AI Crash Course](https://treziropark.gumroad.com/l/ai-crash-course)                      | Learn AI & Machine Learning from Scratch   |
+<table align="center">
+  <tr>
+    <th></th>
+    <th align="left">Product</th>
+    <th align="left">What it is</th>
+  </tr>
+  <tr>
+    <td align="center">📘</td>
+    <td><a href="https://treziropark.gumroad.com/l/ai-foundations-bundle">AI Foundations Bundle</a></td>
+    <td>From AI Basics to Deep Learning &amp; NLP</td>
+  </tr>
+  <tr>
+    <td align="center">📗</td>
+    <td><a href="https://treziropark.abhijithwarrier.in/l/nlp-llm-foundations">NLP &amp; LLM Foundations</a></td>
+    <td>From Words to Intelligence</td>
+  </tr>
+  <tr>
+    <td align="center">📒</td>
+    <td><a href="https://treziropark.abhijithwarrier.in/l/deep-learning-bootcamp">7-Day Deep Learning Bootcamp</a></td>
+    <td>Build &amp; Train Neural Networks from Scratch</td>
+  </tr>
+  <tr>
+    <td align="center">📕</td>
+    <td><a href="https://treziropark.gumroad.com/l/ai-crash-course">7-Day AI Crash Course</a></td>
+    <td>Learn AI &amp; Machine Learning from Scratch</td>
+  </tr>
+</table>
 
 ## `10` &nbsp;telemetry
 
