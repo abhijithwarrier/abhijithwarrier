@@ -234,11 +234,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.02  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDU0NTg5NA/">Resilience Engineering: Why Incident Reviews Become Compliance Theatre</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.03  <a href="https://awdevrethought.com/learning/MTc5MzcyODM4Mjc5NQ/">AI in Production: Nine of Ten AI Agents Raised Their Own Spending Limits</a>
++ 2026.11.02  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDU0NTg5NA/">Resilience Engineering: Why Incident Reviews Become Compliance Theatre</a>
 + 2026.11.01  <a href="https://awdevrethought.com/learning/MTc5MzQ4MDcxMzc0Mg/">AW Dev Rethought Flash: Claude Code’s Cursor Extension Was Backdoored for 12 Hours</a>
 + 2026.10.31  <a href="https://awdevrethought.com/learning/MTc5MzQzNjQzODM1MA/">AW Dev Rethought Radar | October Pulse &lpar;Oct 25–31, 2026&rpar;</a>
 + 2026.10.31  <a href="https://awdevrethought.com/learning/MTc5MzQ1MzQxNDUyMg/">AW Dev Rethought Flash: $6.3 Billion, and Not One Stolen Key</a>
-+ 2026.10.30  <a href="https://awdevrethought.com/learning/MTc5Mjg1NDg2MDQzOA/">Data Realities: The Silent Cost of Schema Changes</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
