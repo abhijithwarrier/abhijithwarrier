@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://abhijithwarrier.in"><img src="https://img.shields.io/badge/abhijithwarrier.in-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Website"/></a>
-  <a href="https://awdevrethought.com"><img src="https://img.shields.io/badge/AW_Dev_Rethought-0D1117?style=for-the-badge&logo=rss&logoColor=D4AF37" alt="Blog"/></a>
-  <a href="https://www.linkedin.com/in/abhijith-warrier-228605184"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0Q0QUYzNyIvPjx0ZXh0IHg9IjEyIiB5PSIxNy41IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiMwRDExMTciPmluPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/python_scripts"><img src="https://img.shields.io/badge/@python__scripts-0D1117?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@awdevrethought"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=D4AF37" alt="YouTube"/></a>
-  <a href="https://discord.gg/NWPwSrZ296"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=D4AF37" alt="Discord"/></a>
+    <a href="https://abhijithwarrier.in"><img src="https://img.shields.io/badge/abhijithwarrier.in-0D1117?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Website"/></a>
+    <a href="https://www.linkedin.com/in/abhijith-warrier-228605184"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0Q0QUYzNyIvPjx0ZXh0IHg9IjEyIiB5PSIxNy41IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiMwRDExMTciPmluPC90ZXh0Pjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
+    <a href="https://awdevrethought.com"><img src="https://img.shields.io/badge/AW_Dev_Rethought-0D1117?style=for-the-badge&logo=rss&logoColor=D4AF37" alt="Blog"/></a>
+    <a href="https://youtube.com/@awdevrethought"><img src="https://img.shields.io/badge/AW Dev Rethought YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=D4AF37" alt="AW Dev Rethought YouTube"/></a>
+    <a href="https://instagram.com/python_scripts"><img src="https://img.shields.io/badge/@python__scripts-0D1117?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram"/></a>
+    <a href="https://instagram.com/awdevrethought"><img src="https://img.shields.io/badge/@awdevrethought-0D1117?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram"/></a>
+    <a href="https://discord.gg/NWPwSrZ296"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=D4AF37" alt="Discord"/></a>
 </p>
 
 <br/>
