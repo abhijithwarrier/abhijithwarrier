@@ -255,16 +255,16 @@ class AbhijithWarrier(Engineer):
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><img src="https://i.ytimg.com/vi/mbIS5zMDRW0/hq720.jpg" alt="How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><b>How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈</b></a><br/><code>2026.11.06</code>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=kLL6S1E66rA"><img src="https://i.ytimg.com/vi/kLL6S1E66rA/hq720.jpg" alt="How It Actually Works: Why Your Database Query Is Slow: Indexes Explained 🐢⚡" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=kLL6S1E66rA"><b>How It Actually Works: Why Your Database Query Is Slow: Indexes Explained 🐢⚡</b></a><br/><code>2026.11.05</code>
+      <a href="https://www.youtube.com/watch?v=kLL6S1E66rA"><b>How It Actually Works: Why Your Database Query Is Slow: Indexes Explained 🐢⚡</b></a><br/><code>2026.11.04</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=MGRbMA7WUFY"><img src="https://i.ytimg.com/vi/MGRbMA7WUFY/hq720.jpg" alt="How It Actually Works: What Happens When You Type git commit? Blobs, Trees &amp; Hashes Explained 🌳" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=MGRbMA7WUFY"><b>How It Actually Works: What Happens When You Type git commit? Blobs, Trees &amp; Hashes Explained 🌳</b></a><br/><code>2026.11.03</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><img src="https://i.ytimg.com/vi/et_2HNkmUek/hq720.jpg" alt="AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=et_2HNkmUek"><b>AI Crash Course: Day 1 - AI vs Machine Learning vs Deep Learning, Finally Explained 🤖</b></a><br/><code>2026.11.01</code>
+      <a href="https://www.youtube.com/watch?v=MGRbMA7WUFY"><b>How It Actually Works: What Happens When You Type git commit? Blobs, Trees &amp; Hashes Explained 🌳</b></a><br/><code>2026.11.02</code>
     </td>
   </tr>
 </table>
