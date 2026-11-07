@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.05  <a href="https://awdevrethought.com/learning/MTc5MzkwMjExMjIwMA/">AW Dev Rethought Flash: DigiCert Breach Exposed Identity Documents, Not Certificates</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.07  <a href="https://awdevrethought.com/learning/MTc5Mzk4OTE0MzQzNg/">The Rethought — Cloud Capacity Is Sold Out Through 2027</a>
++ 2026.11.06  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDYyMDMyOA/">Architecture Realities: The Gap Between Architecture Diagrams and Reality</a>
++ 2026.11.05  <a href="https://awdevrethought.com/learning/MTc5MzkwMjExMjIwMA/">AW Dev Rethought Flash: DigiCert Breach Exposed Identity Documents, Not Certificates</a>
 + 2026.11.04  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDU4MDI5NQ/">Systems Realities: Why Rollbacks Are Harder Than Deployments</a>
 + 2026.11.03  <a href="https://awdevrethought.com/learning/MTc5MzcyODM4Mjc5NQ/">AI in Production: Nine of Ten AI Agents Raised Their Own Spending Limits</a>
-+ 2026.11.02  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDU0NTg5NA/">Resilience Engineering: Why Incident Reviews Become Compliance Theatre</a>
-+ 2026.11.01  <a href="https://awdevrethought.com/learning/MTc5MzQ4MDcxMzc0Mg/">AW Dev Rethought Flash: Claude Code’s Cursor Extension Was Backdoored for 12 Hours</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
