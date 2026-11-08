@@ -256,15 +256,15 @@ class AbhijithWarrier(Engineer):
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><img src="https://i.ytimg.com/vi/kTpZsddRz3c/hq720.jpg" alt="AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><b>AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖</b></a><br/><code>2026.11.08</code>
+      <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><b>AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖</b></a><br/><code>2026.11.07</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><img src="https://i.ytimg.com/vi/mbIS5zMDRW0/hq720.jpg" alt="How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><b>How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈</b></a><br/><code>2026.11.07</code>
+      <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><b>How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈</b></a><br/><code>2026.11.06</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=kLL6S1E66rA"><img src="https://i.ytimg.com/vi/kLL6S1E66rA/hq720.jpg" alt="How It Actually Works: Why Your Database Query Is Slow: Indexes Explained 🐢⚡" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=kLL6S1E66rA"><b>How It Actually Works: Why Your Database Query Is Slow: Indexes Explained 🐢⚡</b></a><br/><code>2026.11.05</code>
+      <a href="https://www.youtube.com/watch?v=kLL6S1E66rA"><b>How It Actually Works: Why Your Database Query Is Slow: Indexes Explained 🐢⚡</b></a><br/><code>2026.11.04</code>
     </td>
   </tr>
 </table>
