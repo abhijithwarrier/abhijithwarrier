@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.07  <a href="https://awdevrethought.com/learning/MTc5Mzk4OTE0MzQzNg/">The Rethought — Cloud Capacity Is Sold Out Through 2027</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.09  <a href="https://awdevrethought.com/learning/MTc5NDE2NjE3MTAxNg/">Runtime Internals: What the V8 Engine Does Before Running Your Code</a>
++ 2026.11.07  <a href="https://awdevrethought.com/learning/MTc5Mzk4OTE0MzQzNg/">The Rethought — Cloud Capacity Is Sold Out Through 2027</a>
 + 2026.11.06  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDYyMDMyOA/">Architecture Realities: The Gap Between Architecture Diagrams and Reality</a>
 + 2026.11.05  <a href="https://awdevrethought.com/learning/MTc5MzkwMjExMjIwMA/">AW Dev Rethought Flash: DigiCert Breach Exposed Identity Documents, Not Certificates</a>
 + 2026.11.04  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDU4MDI5NQ/">Systems Realities: Why Rollbacks Are Harder Than Deployments</a>
-+ 2026.11.03  <a href="https://awdevrethought.com/learning/MTc5MzcyODM4Mjc5NQ/">AI in Production: Nine of Ten AI Agents Raised Their Own Spending Limits</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
