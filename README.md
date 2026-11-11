@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.10  <a href="https://awdevrethought.com/learning/MTc5NDI1MDU1MDExMg/">AW Dev Rethought Flash: Claude Code&#39;s &quot;Don’t Ask Again&quot; Is Writing Your Passwords to Disk</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.11  <a href="https://awdevrethought.com/learning/MTc5NDM0MDc2Nzk3Ng/">AW Dev Rethought Flash: Microsoft Fixed 1,093 Flaws. The Exploited One Is Rated Moderate.</a>
++ 2026.11.10  <a href="https://awdevrethought.com/learning/MTc5NDI1MDU1MDExMg/">AW Dev Rethought Flash: Claude Code&#39;s &quot;Don’t Ask Again&quot; Is Writing Your Passwords to Disk</a>
 + 2026.11.09  <a href="https://awdevrethought.com/learning/MTc5NDE2NjE3MTAxNg/">Runtime Internals: What the V8 Engine Does Before Running Your Code</a>
 + 2026.11.07  <a href="https://awdevrethought.com/learning/MTc5Mzk4OTE0MzQzNg/">The Rethought — Cloud Capacity Is Sold Out Through 2027</a>
 + 2026.11.06  <a href="https://awdevrethought.com/learning/MTc5MzQ2NDYyMDMyOA/">Architecture Realities: The Gap Between Architecture Diagrams and Reality</a>
-+ 2026.11.05  <a href="https://awdevrethought.com/learning/MTc5MzkwMjExMjIwMA/">AW Dev Rethought Flash: DigiCert Breach Exposed Identity Documents, Not Certificates</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
