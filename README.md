@@ -256,15 +256,15 @@ class AbhijithWarrier(Engineer):
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><img src="https://i.ytimg.com/vi/6XAzn_qNVck/hq720.jpg" alt="How It Actually Works: How Load Balancers Keep Apps Alive ⚖️" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><b>How It Actually Works: How Load Balancers Keep Apps Alive ⚖️</b></a><br/><code>2026.11.09</code>
+      <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><b>How It Actually Works: How Load Balancers Keep Apps Alive ⚖️</b></a><br/><code>2026.11.10</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><img src="https://i.ytimg.com/vi/kTpZsddRz3c/hq720.jpg" alt="AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><b>AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖</b></a><br/><code>2026.11.07</code>
+      <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><b>AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖</b></a><br/><code>2026.11.08</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><img src="https://i.ytimg.com/vi/mbIS5zMDRW0/hq720.jpg" alt="How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><b>How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈</b></a><br/><code>2026.11.06</code>
+      <a href="https://www.youtube.com/watch?v=mbIS5zMDRW0"><b>How It Actually Works: Big O Explained: Why Some Code Scales and Some Doesn&#x27;t 📈</b></a><br/><code>2026.11.07</code>
     </td>
   </tr>
 </table>
