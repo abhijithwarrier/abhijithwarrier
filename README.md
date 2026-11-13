@@ -256,15 +256,15 @@ class AbhijithWarrier(Engineer):
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><img src="https://i.ytimg.com/vi/RbSzSS5v8ZQ/hq720.jpg" alt="How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><b>How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖</b></a><br/><code>2026.11.11</code>
+      <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><b>How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖</b></a><br/><code>2026.11.12</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><img src="https://i.ytimg.com/vi/6XAzn_qNVck/hq720.jpg" alt="How It Actually Works: How Load Balancers Keep Apps Alive ⚖️" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><b>How It Actually Works: How Load Balancers Keep Apps Alive ⚖️</b></a><br/><code>2026.11.09</code>
+      <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><b>How It Actually Works: How Load Balancers Keep Apps Alive ⚖️</b></a><br/><code>2026.11.10</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><img src="https://i.ytimg.com/vi/kTpZsddRz3c/hq720.jpg" alt="AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><b>AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖</b></a><br/><code>2026.11.07</code>
+      <a href="https://www.youtube.com/watch?v=kTpZsddRz3c"><b>AI Crash Course: Day 2 - The 3 Ways Machines Learn: Supervised, Unsupervised &amp; Reinforcement 🤖</b></a><br/><code>2026.11.08</code>
     </td>
   </tr>
 </table>
