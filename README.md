@@ -255,16 +255,16 @@ class AbhijithWarrier(Engineer):
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><img src="https://i.ytimg.com/vi/FxPicpgf4ks/hq720.jpg" alt="AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><b>AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️</b></a><br/><code>2026.11.14</code>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=yroC1G0iYuo"><img src="https://i.ytimg.com/vi/yroC1G0iYuo/hq720.jpg" alt="How It Actually Works: Why Websites Load Fast Worldwide - How a CDN Works 🌍" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=yroC1G0iYuo"><b>How It Actually Works: Why Websites Load Fast Worldwide - How a CDN Works 🌍</b></a><br/><code>2026.11.14</code>
+      <a href="https://www.youtube.com/watch?v=yroC1G0iYuo"><b>How It Actually Works: Why Websites Load Fast Worldwide - How a CDN Works 🌍</b></a><br/><code>2026.11.13</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><img src="https://i.ytimg.com/vi/RbSzSS5v8ZQ/hq720.jpg" alt="How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><b>How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖</b></a><br/><code>2026.11.12</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><img src="https://i.ytimg.com/vi/6XAzn_qNVck/hq720.jpg" alt="How It Actually Works: How Load Balancers Keep Apps Alive ⚖️" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=6XAzn_qNVck"><b>How It Actually Works: How Load Balancers Keep Apps Alive ⚖️</b></a><br/><code>2026.11.10</code>
+      <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><b>How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖</b></a><br/><code>2026.11.11</code>
     </td>
   </tr>
 </table>
