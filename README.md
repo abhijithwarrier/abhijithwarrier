@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.13  <a href="https://awdevrethought.com/learning/MTc5NDE2NjI2Nzc4OA/">Observability in Practice: The Sampling Decisions You Are Making Without Knowing</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.14  <a href="https://awdevrethought.com/learning/MTc5NDMzNjk3MjkyNQ/">The Rethought — Kimi K3 in 8GB, One Token Every 26 Seconds</a>
++ 2026.11.13  <a href="https://awdevrethought.com/learning/MTc5NDU4NjMwNTk4MQ/">AW Dev Rethought Flash: Outlook and Microsoft 365 Down Into a Second Day, With No Root Cause Yet</a>
++ 2026.11.13  <a href="https://awdevrethought.com/learning/MTc5NDE2NjI2Nzc4OA/">Observability in Practice: The Sampling Decisions You Are Making Without Knowing</a>
 + 2026.11.12  <a href="https://awdevrethought.com/learning/MTc5NDQ4MjczMTU1Ng/">AW Dev Rethought Flash: Maersk Breached Through a System It Inherited in an Acquisition</a>
 + 2026.11.11  <a href="https://awdevrethought.com/learning/MTc5NDE2NjIxODE5Mw/">ML in Production: Why Feature Stores Solve a Problem You May Not Have</a>
-+ 2026.11.11  <a href="https://awdevrethought.com/learning/MTc5NDM0MDc2Nzk3Ng/">AW Dev Rethought Flash: Microsoft Fixed 1,093 Flaws. The Exploited One Is Rated Moderate.</a>
-+ 2026.11.10  <a href="https://awdevrethought.com/learning/MTc5NDI1MDU1MDExMg/">AW Dev Rethought Flash: Claude Code&#39;s &quot;Don’t Ask Again&quot; Is Writing Your Passwords to Disk</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
