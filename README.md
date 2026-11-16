@@ -255,16 +255,16 @@ class AbhijithWarrier(Engineer):
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=GxEwTkku334"><img src="https://i.ytimg.com/vi/GxEwTkku334/hq720.jpg" alt="FBI Warning: This AI Tool Breaks Into Networks in Under 3 Hours 🚨 ARTEX Explained" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=GxEwTkku334"><b>FBI Warning: This AI Tool Breaks Into Networks in Under 3 Hours 🚨 ARTEX Explained</b></a><br/><code>2026.11.16</code>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><img src="https://i.ytimg.com/vi/FxPicpgf4ks/hq720.jpg" alt="AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><b>AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️</b></a><br/><code>2026.11.15</code>
+      <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><b>AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️</b></a><br/><code>2026.11.14</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=yroC1G0iYuo"><img src="https://i.ytimg.com/vi/yroC1G0iYuo/hq720.jpg" alt="How It Actually Works: Why Websites Load Fast Worldwide - How a CDN Works 🌍" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=yroC1G0iYuo"><b>How It Actually Works: Why Websites Load Fast Worldwide - How a CDN Works 🌍</b></a><br/><code>2026.11.14</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><img src="https://i.ytimg.com/vi/RbSzSS5v8ZQ/hq720.jpg" alt="How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=RbSzSS5v8ZQ"><b>How It Actually Works: Why AI Models Hallucinate (And Why It&#x27;s So Hard to Fix) 🤖</b></a><br/><code>2026.11.12</code>
+      <a href="https://www.youtube.com/watch?v=yroC1G0iYuo"><b>How It Actually Works: Why Websites Load Fast Worldwide - How a CDN Works 🌍</b></a><br/><code>2026.11.13</code>
     </td>
   </tr>
 </table>
