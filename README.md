@@ -236,10 +236,10 @@ class AbhijithWarrier(Engineer):
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
 <!-- BLOG-POST-LIST:START -->+ 2026.11.18  <a href="https://awdevrethought.com/learning/MTc5NDk3NDQ0MzA1NQ/">AW Dev Rethought Flash: Optimizely Hack Hits Salesforce, GitLab and 176 More</a>
++ 2026.11.18  <a href="https://awdevrethought.com/learning/MTc5NDE2NjMwNTYxNQ/">Security Realities: Secrets Rotation Is Easy Until You Have Consumers</a>
 + 2026.11.16  <a href="https://awdevrethought.com/learning/MTc5NDc3MjQxMDMzNw/">Tech Drop: SpaceX Caught a Starship From Orbit. Reuse Is Still Unproven.</a>
 + 2026.11.16  <a href="https://awdevrethought.com/learning/MTc5NDc3Mzg0NDcwNA/">AW Dev Rethought Flash: FBI Warns ARTEX AI Tool Is Breaching Networks in Under 3 Hours</a>
 + 2026.11.14  <a href="https://awdevrethought.com/learning/MTc5NDMzNjk3MjkyNQ/">The Rethought — Kimi K3 in 8GB, One Token Every 26 Seconds</a>
-+ 2026.11.13  <a href="https://awdevrethought.com/learning/MTc5NDU4NjMwNTk4MQ/">AW Dev Rethought Flash: Outlook and Microsoft 365 Down Into a Second Day, With No Root Cause Yet</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
