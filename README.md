@@ -255,16 +255,16 @@ class AbhijithWarrier(Engineer):
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=cEJENSnwEKA"><img src="https://i.ytimg.com/vi/cEJENSnwEKA/hq720.jpg" alt="Rethink the Concept: They Stole the Database. Not Your Password 🔐 Hashing &amp; Salting Explained" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=cEJENSnwEKA"><b>Rethink the Concept: They Stole the Database. Not Your Password 🔐 Hashing &amp; Salting Explained</b></a><br/><code>2026.11.20</code>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=52xrHjkTdn0"><img src="https://i.ytimg.com/vi/52xrHjkTdn0/hq720.jpg" alt="Rethink the Concept: Where Did My ₹500 Go? ACID Transactions Explained 💸" width="100%"/></a>
       <a href="https://www.youtube.com/watch?v=52xrHjkTdn0"><b>Rethink the Concept: Where Did My ₹500 Go? ACID Transactions Explained 💸</b></a><br/><code>2026.11.18</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=GxEwTkku334"><img src="https://i.ytimg.com/vi/GxEwTkku334/hq720.jpg" alt="FBI Warning: This AI Tool Breaks Into Networks in Under 3 Hours 🚨 ARTEX Explained" width="100%"/></a>
       <a href="https://www.youtube.com/watch?v=GxEwTkku334"><b>FBI Warning: This AI Tool Breaks Into Networks in Under 3 Hours 🚨 ARTEX Explained</b></a><br/><code>2026.11.16</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><img src="https://i.ytimg.com/vi/FxPicpgf4ks/hq720.jpg" alt="AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=FxPicpgf4ks"><b>AI Crash Course: Day 3 — Supervised Learning, How AI Learns From Examples 🏷️</b></a><br/><code>2026.11.14</code>
     </td>
   </tr>
 </table>
