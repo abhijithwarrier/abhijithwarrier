@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.20  <a href="https://awdevrethought.com/learning/MTc5NTE1MjkyMTEyNQ/">Tech Drop: GTA 6 Is Here. Inside the Biggest Game Launch Ever</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.21  <a href="https://awdevrethought.com/learning/MTc5NDQxMjExMTE2Mg/">Networking Internals: The Load Balancer Is Making Decisions You Did Not Configure</a>
++ 2026.11.20  <a href="https://awdevrethought.com/learning/MTc5NTE1MjkyMTEyNQ/">Tech Drop: GTA 6 Is Here. Inside the Biggest Game Launch Ever</a>
 + 2026.11.18  <a href="https://awdevrethought.com/learning/MTc5NDk3NDQ0MzA1NQ/">AW Dev Rethought Flash: Optimizely Hack Hits Salesforce, GitLab and 176 More</a>
 + 2026.11.18  <a href="https://awdevrethought.com/learning/MTc5NDE2NjMwNTYxNQ/">Security Realities: Secrets Rotation Is Easy Until You Have Consumers</a>
 + 2026.11.16  <a href="https://awdevrethought.com/learning/MTc5NDc3MjQxMDMzNw/">Tech Drop: SpaceX Caught a Starship From Orbit. Reuse Is Still Unproven.</a>
-+ 2026.11.16  <a href="https://awdevrethought.com/learning/MTc5NDc3Mzg0NDcwNA/">AW Dev Rethought Flash: FBI Warns ARTEX AI Tool Is Breaching Networks in Under 3 Hours</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
