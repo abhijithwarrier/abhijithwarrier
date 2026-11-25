@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.23  <a href="https://awdevrethought.com/learning/MTc5NTM1NTUwOTA5MA/">AW Dev Rethought Flash: FBI Investigates Apparent Breach of Its NCIC Crime Database</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.25  <a href="https://awdevrethought.com/learning/MTc5NTU4MDUyNTA1Mg/">AW Dev Rethought Flash: Microsoft Declares Code Red After the Outlook Outage</a>
++ 2026.11.23  <a href="https://awdevrethought.com/learning/MTc5NTM1NTUwOTA5MA/">AW Dev Rethought Flash: FBI Investigates Apparent Breach of Its NCIC Crime Database</a>
 + 2026.11.23  <a href="https://awdevrethought.com/learning/MTc5NDQxMjY2MTgyMA/">Infrastructure Deep Dive: Why Terraform Becomes the Problem at Scale</a>
 + 2026.11.21  <a href="https://awdevrethought.com/learning/MTc5NDQxMjExMTE2Mg/">Networking Internals: The Load Balancer Is Making Decisions You Did Not Configure</a>
 + 2026.11.20  <a href="https://awdevrethought.com/learning/MTc5NTE1MjkyMTEyNQ/">Tech Drop: GTA 6 Is Here. Inside the Biggest Game Launch Ever</a>
-+ 2026.11.18  <a href="https://awdevrethought.com/learning/MTc5NDk3NDQ0MzA1NQ/">AW Dev Rethought Flash: Optimizely Hack Hits Salesforce, GitLab and 176 More</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
