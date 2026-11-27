@@ -255,16 +255,16 @@ class AbhijithWarrier(Engineer):
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://www.youtube.com/watch?v=lxithBhcafs"><img src="https://i.ytimg.com/vi/lxithBhcafs/hq720.jpg" alt="Rethink the Concept: $3.79 Billion in One Day — How GTA 6 Delivered a 210 GB Game to Millions 🎮" width="100%"/></a>
+      <a href="https://www.youtube.com/watch?v=lxithBhcafs"><b>Rethink the Concept: $3.79 Billion in One Day — How GTA 6 Delivered a 210 GB Game to Millions 🎮</b></a><br/><code>2026.11.27</code>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=YGVYa9Tf7bg"><img src="https://i.ytimg.com/vi/YGVYa9Tf7bg/hq720.jpg" alt="Microsoft Declares Code Red After 11,000 Messages Couldn&#x27;t Fix Outlook 🚨 #microsoft #outlook #flash" width="100%"/></a>
       <a href="https://www.youtube.com/watch?v=YGVYa9Tf7bg"><b>Microsoft Declares Code Red After 11,000 Messages Couldn&#x27;t Fix Outlook 🚨 #microsoft #outlook #flash</b></a><br/><code>2026.11.25</code>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.youtube.com/watch?v=Po62fs6uOq8"><img src="https://i.ytimg.com/vi/Po62fs6uOq8/hq720.jpg" alt="Police Check This FBI Database Millions of Times a Day. It Was Just Breached. 🚨 #cybersecurity" width="100%"/></a>
       <a href="https://www.youtube.com/watch?v=Po62fs6uOq8"><b>Police Check This FBI Database Millions of Times a Day. It Was Just Breached. 🚨 #cybersecurity</b></a><br/><code>2026.11.23</code>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=e5G5pqinGvg"><img src="https://i.ytimg.com/vi/e5G5pqinGvg/hq720.jpg" alt="AI Crash Course: Day 4 — Unsupervised Learning, How AI Finds Groups Nobody Labelled 🔍 #ml #ai" width="100%"/></a>
-      <a href="https://www.youtube.com/watch?v=e5G5pqinGvg"><b>AI Crash Course: Day 4 — Unsupervised Learning, How AI Finds Groups Nobody Labelled 🔍 #ml #ai</b></a><br/><code>2026.11.21</code>
     </td>
   </tr>
 </table>
