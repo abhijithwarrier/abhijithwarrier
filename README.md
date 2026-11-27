@@ -235,11 +235,11 @@ class AbhijithWarrier(Engineer):
 
 <pre>
 <b>➜ ~</b> tail -n 5 ~/awdevrethought/posts.log
-<!-- BLOG-POST-LIST:START -->+ 2026.11.26  <a href="https://awdevrethought.com/learning/MTc5NTU0NjUyNTk2OA/">Security Realities: Amazon Caught AI Agents Finding a Zero-Day in 11 Minutes</a>
+<!-- BLOG-POST-LIST:START -->+ 2026.11.27  <a href="https://awdevrethought.com/learning/MTc5NDc3MDc5ODk0Nw/">Architecture Realities: The Hidden Cost of Multi-Tenancy</a>
++ 2026.11.26  <a href="https://awdevrethought.com/learning/MTc5NTU0NjUyNTk2OA/">Security Realities: Amazon Caught AI Agents Finding a Zero-Day in 11 Minutes</a>
++ 2026.11.26  <a href="https://awdevrethought.com/learning/MTc5NTcwODMxMTEzNg/">AW Dev Rethought Flash: Drupal Takeover Flaw Under Attack a Day After Its Patch</a>
 + 2026.11.25  <a href="https://awdevrethought.com/learning/MTc5NTU4MDUyNTA1Mg/">AW Dev Rethought Flash: Microsoft Declares Code Red After the Outlook Outage</a>
 + 2026.11.23  <a href="https://awdevrethought.com/learning/MTc5NTM1NTUwOTA5MA/">AW Dev Rethought Flash: FBI Investigates Apparent Breach of Its NCIC Crime Database</a>
-+ 2026.11.23  <a href="https://awdevrethought.com/learning/MTc5NDQxMjY2MTgyMA/">Infrastructure Deep Dive: Why Terraform Becomes the Problem at Scale</a>
-+ 2026.11.21  <a href="https://awdevrethought.com/learning/MTc5NDQxMjExMTE2Mg/">Networking Internals: The Load Balancer Is Making Decisions You Did Not Configure</a>
 <!-- BLOG-POST-LIST:END -->
 </pre>
 
